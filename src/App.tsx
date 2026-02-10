@@ -1,6 +1,7 @@
 import { useQuiz } from './hooks/useQuiz';
 import HomeScreen from './components/HomeScreen';
 import QuizScreen from './components/QuizScreen';
+import PasswordGate from './components/PasswordGate';
 
 function App() {
   const {
@@ -14,20 +15,22 @@ function App() {
     scoreLabel,
   } = useQuiz();
 
-  if (state.section === null) {
-    return <HomeScreen onSelectSection={startQuiz} />;
-  }
-
   return (
-    <QuizScreen
-      state={state}
-      currentQuestion={currentQuestion}
-      estimatedScore={estimatedScore}
-      scoreLabel={scoreLabel}
-      submitAnswer={submitAnswer}
-      nextQuestion={nextQuestion}
-      onBack={resetQuiz}
-    />
+    <PasswordGate>
+      {state.section === null ? (
+        <HomeScreen onSelectSection={startQuiz} />
+      ) : (
+        <QuizScreen
+          state={state}
+          currentQuestion={currentQuestion}
+          estimatedScore={estimatedScore}
+          scoreLabel={scoreLabel}
+          submitAnswer={submitAnswer}
+          nextQuestion={nextQuestion}
+          onBack={resetQuiz}
+        />
+      )}
+    </PasswordGate>
   );
 }
 

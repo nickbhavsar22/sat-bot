@@ -28,3 +28,6 @@ dist-ssr
 
 # Temporary working files
 .tmp/
+
+# Environment variables (contains password hash)
+.env
