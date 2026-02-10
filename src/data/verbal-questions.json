@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "verbal-001",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "passage": "The architect's design for the new museum was remarkably innovative, featuring curved glass walls that seemed to defy gravity. Critics praised the building's ability to harmonize with its natural surroundings while still making a bold artistic statement. The structure quickly became a landmark that drew visitors from around the world.",
+    "question": "As used in the passage, \"harmonize\" most nearly means",
+    "choices": {
+      "A": "blend compatibly",
+      "B": "sing together",
+      "C": "compete aggressively",
+      "D": "contrast sharply"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The word <strong>\"harmonize\"</strong> here means <em>to blend compatibly</em>. The key context clue is the phrase <strong>\"with its natural surroundings while still making a bold artistic statement\"</strong> — the building achieves balance between fitting in and standing out. The positive tone (\"praised\") confirms the meaning is about compatibility, not conflict.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For Words in Context, always look at the sentence around the tested word. Tone words (\"praised\") and contrast words (\"while\") are your best clues for choosing the right meaning.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>B) \"sing together\"</strong> — This is the literal musical definition. The SAT often tests figurative vs. literal meanings — context clearly relates to architecture, not music.</div><div class=\"wrong-answer-note\"><strong>C) \"compete aggressively\"</strong> — Contradicts the positive tone. Critics <em>praised</em> the building; competing with nature would not be praiseworthy in this context.</div><div class=\"wrong-answer-note\"><strong>D) \"contrast sharply\"</strong> — While the building is bold, \"harmonize\" specifically means it also fits in. Sharp contrast contradicts the passage's emphasis on compatibility.</div>"
+  },
+  {
+    "id": "verbal-002",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "passage": "During the 1930s, the Dust Bowl devastated farming communities across the Great Plains. Prolonged drought, combined with decades of aggressive farming practices that stripped the topsoil of its natural grasses, rendered millions of acres barren. Families who had cultivated the land for generations were compelled to abandon their homesteads and migrate westward in search of more tenable living conditions.",
+    "question": "As used in the passage, \"tenable\" most nearly means",
+    "choices": {
+      "A": "luxurious",
+      "B": "familiar",
+      "C": "temporary",
+      "D": "sustainable"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The word <strong>\"tenable\"</strong> here means <em>sustainable</em> or capable of being maintained. The families were forced to abandon land that could no longer support them, so they sought conditions they could actually <strong>sustain</strong>. The context clue is the contrast between the <strong>\"barren\"</strong> land they left and the livable conditions they hoped to find.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a word describes what people are searching for, look at what they are escaping. The opposite of their current bad situation often points to the correct definition.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"luxurious\"</strong> — This is too extreme. The passage describes desperate families fleeing devastation — they sought <em>survivable</em> conditions, not luxury.</div><div class=\"wrong-answer-note\"><strong>B) \"familiar\"</strong> — The families were migrating westward to <em>new</em> territory, so familiarity is contradicted by the passage context.</div><div class=\"wrong-answer-note\"><strong>C) \"temporary\"</strong> — Families who \"cultivated the land for generations\" would be seeking permanence, not temporary arrangements. This contradicts the passage's implication of putting down new roots.</div>"
+  },
+  {
+    "id": "verbal-003",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "hard",
+    "passage": "The philosopher's treatise on moral responsibility was notable for its equanimity; where other scholars had written with fiery polemicism, she approached even the most contentious ethical dilemmas with measured prose and dispassionate analysis. Her detractors argued that this very quality enervated her arguments, stripping them of the urgency the subject demanded.",
+    "question": "As used in the passage, \"enervated\" most nearly means",
+    "choices": {
+      "A": "energized",
+      "B": "complicated",
+      "C": "weakened",
+      "D": "illuminated"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The word <strong>\"enervated\"</strong> here means <em>weakened</em> or drained of force. The detractors believed the philosopher's calm, <strong>\"dispassionate\"</strong> style actually <em>sapped the power</em> from her arguments, <strong>\"stripping them of the urgency the subject demanded.\"</strong> The word \"stripping\" is the key context clue — it reinforces the idea of something being taken away, not added.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> \"Enervate\" is one of the SAT's favorite trap words — it <em>sounds</em> like \"energize\" but means the opposite. When you see a word that looks familiar but the context doesn't match your assumption, reconsider. Always let the passage override your instinct.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"energized\"</strong> — This is the classic trap. \"Enervate\" and \"energize\" sound similar but are antonyms. The passage describes a <em>negative</em> criticism (\"detractors argued\"), so the meaning must be negative.</div><div class=\"wrong-answer-note\"><strong>B) \"complicated\"</strong> — The critics' complaint is about <em>loss of force</em>, not about complexity. The passage says the arguments lacked urgency, not that they were hard to follow.</div><div class=\"wrong-answer-note\"><strong>D) \"illuminated\"</strong> — This is positive and contradicts the critical tone. Detractors would not praise the philosopher's approach as illuminating while simultaneously criticizing it.</div>"
+  },
+  {
+    "id": "verbal-004",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "passage": "Honeybees perform a remarkable behavior known as the waggle dance. When a forager bee discovers a rich source of nectar, it returns to the hive and performs a figure-eight dance pattern. The angle of the dance relative to the sun indicates the direction of the food source, while the duration of the waggle portion communicates the distance. Other bees observe this dance and then fly directly to the indicated location.",
+    "question": "The primary purpose of this passage is to",
+    "choices": {
+      "A": "argue that honeybees are more intelligent than other insects",
+      "B": "persuade readers to protect honeybee populations",
+      "C": "compare different types of bee behavior",
+      "D": "explain how honeybees communicate the location of food sources"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The passage <strong>systematically explains</strong> how the waggle dance works: the <strong>figure-eight pattern</strong>, the meaning of the <strong>angle</strong> (direction), the significance of the <strong>duration</strong> (distance), and the result (other bees fly to the location). Every sentence builds on the explanation of this single communication mechanism.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For Text Structure and Purpose questions, ask yourself: \"What is every sentence in this passage doing?\" If each sentence adds a new detail about the same topic, the purpose is likely <em>explanatory</em>. If sentences present opposing sides, the purpose is likely to <em>compare</em> or <em>argue</em>.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"argue that honeybees are more intelligent than other insects\"</strong> — The passage never compares bees to other insects or makes any claim about relative intelligence. It only describes <em>one behavior</em>.</div><div class=\"wrong-answer-note\"><strong>B) \"persuade readers to protect honeybee populations\"</strong> — There is no call to action or advocacy language in the passage. It is purely informational, not persuasive.</div><div class=\"wrong-answer-note\"><strong>C) \"compare different types of bee behavior\"</strong> — Only <em>one</em> behavior (the waggle dance) is discussed. No comparison between behaviors is made.</div>"
+  },
+  {
+    "id": "verbal-005",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "passage": "In 1928, Alexander Fleming returned from vacation to find mold growing on a petri dish of Staphylococcus bacteria. Rather than discarding the contaminated sample, he noticed something extraordinary: the bacteria surrounding the mold had been destroyed. Fleming identified the mold as Penicillium notatum and published his findings, though he was unable to produce penicillin in sufficient quantities for clinical use. It would take another decade before Howard Florey and Ernst Boris Chain developed methods to mass-produce the drug, transforming medicine forever.",
+    "question": "Which choice best describes the structure of the passage?",
+    "choices": {
+      "A": "A problem is introduced and multiple competing solutions are evaluated",
+      "B": "A chronological account traces the development of a scientific discovery",
+      "C": "A scientific theory is presented and then challenged by new evidence",
+      "D": "Two researchers' methods are compared and contrasted"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The passage follows a clear <strong>chronological structure</strong>: it begins with Fleming's <strong>1928 discovery</strong>, traces his initial findings and limitations, then moves forward <strong>\"another decade\"</strong> to Florey and Chain's mass-production breakthrough. The time markers (\"In 1928,\" \"It would take another decade\") are the structural backbone of this passage.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When you see dates, time phrases (\"later,\" \"by the time,\" \"another decade\"), or a sequence of events, the structure is almost certainly <em>chronological</em>. Look for these signposts before evaluating the answer choices.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"A problem is introduced and multiple competing solutions are evaluated\"</strong> — No problem-solution framework exists here. The passage traces a discovery's development, not competing approaches to a problem.</div><div class=\"wrong-answer-note\"><strong>C) \"A scientific theory is presented and then challenged by new evidence\"</strong> — No theory is presented or challenged. The passage describes a discovery and its subsequent development, not a debate.</div><div class=\"wrong-answer-note\"><strong>D) \"Two researchers' methods are compared and contrasted\"</strong> — While Florey and Chain are mentioned, their methods are not compared with Fleming's. The passage shows a <em>sequence</em> of contributions, not a <em>comparison</em>.</div>"
+  },
+  {
+    "id": "verbal-006",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "passage": "Some researchers have proposed that the disappearance of large Pleistocene mammals \u00e2\u20ac\u201d mammoths, giant sloths, saber-toothed cats \u00e2\u20ac\u201d was driven primarily by human hunting. This \"overkill hypothesis\" points to the suspicious timing: megafauna extinctions closely followed human arrival on each continent. However, others counter that rapid climate change at the end of the Ice Age drastically altered habitats. A third camp suggests that neither factor alone was sufficient, and that the extinctions resulted from the compound stress of both pressures acting simultaneously on already-vulnerable populations.",
+    "question": "The author structures the passage primarily to",
+    "choices": {
+      "A": "advocate for the compound stress theory over the other two hypotheses",
+      "B": "present a chronological account of Pleistocene extinction research",
+      "C": "outline multiple scholarly perspectives on a debated scientific question",
+      "D": "refute the overkill hypothesis using climate change evidence"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The passage presents <strong>three distinct scholarly perspectives</strong> on megafauna extinction: the <strong>overkill hypothesis</strong> (human hunting), the <strong>climate change explanation</strong>, and the <strong>compound stress theory</strong> (both factors combined). The author uses neutral language throughout — \"Some researchers have proposed,\" \"others counter,\" \"A third camp suggests\" — presenting each view <em>without favoring any one</em>.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a passage presents multiple viewpoints using neutral framing language (\"some argue,\" \"others believe,\" \"a third group suggests\"), the structure is almost always <em>outlining perspectives</em>, not advocating for one. Watch for the author's tone to determine if they are neutral or biased.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"advocate for the compound stress theory\"</strong> — The passage gives the compound stress theory no special emphasis or endorsement. It is presented as one of three equal perspectives, not as the preferred one.</div><div class=\"wrong-answer-note\"><strong>B) \"present a chronological account of extinction research\"</strong> — The passage is organized by <em>competing theories</em>, not by time. No dates or research timeline is provided.</div><div class=\"wrong-answer-note\"><strong>D) \"refute the overkill hypothesis using climate change evidence\"</strong> — The passage does not refute any hypothesis. It presents each view as part of an <em>ongoing debate</em>, not as settled science.</div>"
+  },
+  {
+    "id": "verbal-007",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "passage": "The Great Wall of China is often cited as the only human-made structure visible from space, but this claim is a myth. Astronauts have confirmed that the Wall is extremely difficult to see from low Earth orbit without aid, as it is narrow and blends into the natural landscape. In contrast, cities, highways, and airports are far more visible due to their size and contrasting colors.",
+    "question": "Which choice best states the main idea of the passage?",
+    "choices": {
+      "A": "The Great Wall of China is the longest structure ever built",
+      "B": "The Great Wall blends into the landscape because of its color",
+      "C": "Astronauts have never been able to see any human structures from space",
+      "D": "The popular belief that the Great Wall is visible from space is incorrect"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The passage's central purpose is to <strong>debunk the myth</strong> that the Great Wall is visible from space. It explicitly calls the claim <strong>\"a myth,\"</strong> provides <strong>astronaut testimony</strong> as evidence, and contrasts the Wall's low visibility with other human-made structures that <em>are</em> visible (cities, highways, airports).</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For main idea questions, look for the sentence that everything else in the passage supports. Here, the key sentence is \"this claim is a myth\" — every other sentence either provides evidence for or context around that central claim.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"The Great Wall of China is the longest structure ever built\"</strong> — The passage never discusses the Wall's length or makes any claim about it being the longest. This is an outside fact not addressed in the passage.</div><div class=\"wrong-answer-note\"><strong>B) \"The Great Wall blends into the landscape because of its color\"</strong> — While blending into the landscape is mentioned, this is a <em>supporting detail</em> explaining why the myth is false, not the main idea itself.</div><div class=\"wrong-answer-note\"><strong>C) \"Astronauts have never been able to see any human structures from space\"</strong> — Directly contradicted by the passage, which states that cities, highways, and airports <em>are</em> visible from space.</div>"
+  },
+  {
+    "id": "verbal-008",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "passage": "Urban heat islands occur when cities experience significantly higher temperatures than surrounding rural areas. Buildings, roads, and other infrastructure absorb and re-emit solar heat more than natural landscapes do. Additionally, waste heat from vehicles, factories, and air conditioning systems compounds the effect. Green spaces, such as parks and tree-lined streets, can mitigate urban heat islands by providing shade and releasing moisture through evapotranspiration, cooling the surrounding air.",
+    "question": "According to the passage, green spaces reduce urban heat primarily by",
+    "choices": {
+      "A": "providing shade and releasing moisture",
+      "B": "absorbing waste heat from vehicles",
+      "C": "reflecting sunlight back into the atmosphere",
+      "D": "replacing roads and buildings with natural materials"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The passage <strong>explicitly states</strong> that green spaces mitigate urban heat islands <strong>\"by providing shade and releasing moisture through evapotranspiration, cooling the surrounding air.\"</strong> This is a direct textual match with answer choice A. When the SAT asks \"according to the passage,\" the answer must be stated in the text, not inferred.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Questions that begin with \"According to the passage\" are asking for <em>stated information</em>, not inferences. Find the exact sentence that answers the question and match it to a choice. The correct answer will closely paraphrase the passage.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>B) \"absorbing waste heat from vehicles\"</strong> — The passage mentions waste heat from vehicles as a <em>cause</em> of urban heat islands, not as something green spaces absorb. This confuses the problem with the solution.</div><div class=\"wrong-answer-note\"><strong>C) \"reflecting sunlight back into the atmosphere\"</strong> — Reflection of sunlight is never mentioned in the passage. This is a plausible-sounding scientific fact, but it is not stated in the text.</div><div class=\"wrong-answer-note\"><strong>D) \"replacing roads and buildings with natural materials\"</strong> — The passage says green spaces <em>mitigate</em> heat islands, not that they <em>replace</em> infrastructure. This overstates what the passage claims.</div>"
+  },
+  {
+    "id": "verbal-009",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "passage": "Dr. Elara Voss spent three years studying deep-sea hydrothermal vents in the Pacific Ocean. Her team discovered bacterial colonies thriving at temperatures exceeding 120 degrees Celsius, far above what was previously considered the upper limit for life. These extremophiles derive energy not from sunlight but from chemical reactions involving hydrogen sulfide released by the vents. The discovery prompted scientists to reconsider the potential for life in environments previously deemed inhospitable.",
+    "question": "Based on the passage, it can most reasonably be inferred that before Dr. Voss's discovery, scientists generally believed that",
+    "choices": {
+      "A": "deep-sea hydrothermal vents did not exist in the Pacific Ocean",
+      "B": "the deep sea contained no bacterial colonies of any kind",
+      "C": "all life forms require hydrogen sulfide to survive",
+      "D": "organisms could not survive at temperatures above a certain threshold"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The passage states the bacteria were thriving at temperatures <strong>\"far above what was previously considered the upper limit for life.\"</strong> The phrase <strong>\"previously considered\"</strong> directly implies that before this discovery, scientists believed there was a <em>temperature ceiling</em> beyond which organisms could not survive.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For inference questions, look for phrases like \"previously considered,\" \"once believed,\" or \"had assumed.\" These signal what people thought <em>before</em> the evidence changed their minds — and the SAT will ask you to identify that prior belief.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"deep-sea hydrothermal vents did not exist in the Pacific Ocean\"</strong> — Contradicted by the passage. Dr. Voss specifically went to <em>study</em> these vents, implying their existence was already known.</div><div class=\"wrong-answer-note\"><strong>B) \"the deep sea contained no bacterial colonies of any kind\"</strong> — Too extreme. The passage expresses surprise at the <em>temperature tolerance</em>, not at the existence of bacteria in the deep sea in general.</div><div class=\"wrong-answer-note\"><strong>C) \"all life forms require hydrogen sulfide to survive\"</strong> — Misrepresents the passage. Hydrogen sulfide is the energy source for <em>these specific extremophiles</em>, not a requirement for all life.</div>"
+  },
+  {
+    "id": "verbal-010",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "hard",
+    "passage": "A 2023 longitudinal study tracked 5,000 adults over fifteen years and found that participants who maintained consistent sleep schedules \u00e2\u20ac\u201d going to bed and waking at roughly the same times daily \u00e2\u20ac\u201d had a 28% lower risk of cardiovascular disease compared to those with irregular sleep patterns. Interestingly, total sleep duration showed no statistically significant correlation with cardiovascular outcomes once sleep regularity was controlled for. The researchers noted that the body's circadian rhythm, when disrupted by inconsistent sleep timing, triggers inflammatory responses that damage blood vessels over time.",
+    "question": "Which inference is best supported by the passage?",
+    "choices": {
+      "A": "Sleeping eight hours per night guarantees good cardiovascular health",
+      "B": "The consistency of sleep timing may be more important for heart health than the total amount of sleep",
+      "C": "People with irregular sleep schedules always develop cardiovascular disease",
+      "D": "Inflammatory responses are the only cause of cardiovascular disease"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The passage provides two key data points: consistent sleep schedules correlated with a <strong>28% lower risk</strong> of cardiovascular disease, while total sleep duration showed <strong>\"no statistically significant correlation\"</strong> once regularity was controlled for. Together, these strongly support the inference that <em>when</em> you sleep matters more for heart health than <em>how long</em> you sleep.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Inference questions require you to draw a conclusion that is <em>directly supported</em> by the text — not one that goes beyond it. Look for the answer that stays closest to what the passage actually states while making a reasonable logical step.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"Sleeping eight hours per night guarantees good cardiovascular health\"</strong> — The passage says duration was <em>not</em> significantly correlated with outcomes. Also, \"guarantees\" is absolute language the passage never uses.</div><div class=\"wrong-answer-note\"><strong>C) \"People with irregular sleep schedules always develop cardiovascular disease\"</strong> — The word \"always\" makes this incorrect. The study found a <em>higher risk</em> (probabilistic), not a certainty (absolute). The SAT tests whether you can distinguish between correlation and inevitability.</div><div class=\"wrong-answer-note\"><strong>D) \"Inflammatory responses are the only cause of cardiovascular disease\"</strong> — The passage identifies inflammation as <em>one mechanism</em> linking sleep disruption to heart damage, not as the sole cause of all cardiovascular disease.</div>"
+  },
+  {
+    "id": "verbal-011",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "easy",
+    "passage": "Coral reefs support approximately 25% of all marine species despite covering less than 1% of the ocean floor. These ecosystems provide essential habitats for fish, invertebrates, and algae. However, rising ocean temperatures have caused widespread coral bleaching events, during which corals expel the symbiotic algae that give them color and provide nutrients. Without these algae, corals can starve and die within weeks.",
+    "question": "Which claim is best supported by evidence in the passage?",
+    "choices": {
+      "A": "Coral reefs are the largest ecosystems on Earth",
+      "B": "Coral bleaching is caused by pollution from coastal cities",
+      "C": "Coral reefs are disproportionately important relative to their size",
+      "D": "Most marine species can survive without coral reefs"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The passage provides direct numerical evidence: reefs support <strong>approximately 25% of all marine species</strong> while covering <strong>less than 1% of the ocean floor</strong>. This stark ratio — a quarter of marine life supported by less than one percent of the ocean — demonstrates <em>disproportionate importance</em> relative to their size.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Command of Evidence questions ask you to match a claim to the evidence that supports it. Look for specific data points, statistics, or direct statements in the passage. The correct answer will always have a clear, traceable line back to the text.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"Coral reefs are the largest ecosystems on Earth\"</strong> — The passage never compares reefs to other ecosystems in terms of size. In fact, the less-than-1% figure suggests reefs are relatively <em>small</em>, which contradicts this claim.</div><div class=\"wrong-answer-note\"><strong>B) \"Coral bleaching is caused by pollution from coastal cities\"</strong> — The passage attributes bleaching to <strong>\"rising ocean temperatures,\"</strong> not to pollution. This answer introduces a cause not mentioned in the text.</div><div class=\"wrong-answer-note\"><strong>D) \"Most marine species can survive without coral reefs\"</strong> — Contradicted by the passage's statement that reefs <strong>\"support approximately 25% of all marine species\"</strong> and provide <strong>\"essential habitats.\"</strong> The word \"essential\" implies dependence.</div>"
+  },
+  {
+    "id": "verbal-012",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "medium",
+    "passage": "Archaeologists excavating a Bronze Age settlement in southern Turkey uncovered a cache of over 300 clay tablets inscribed with cuneiform script. Analysis revealed that most tablets contained detailed records of grain transactions between the settlement and neighboring communities. A smaller subset documented legal disputes over land ownership. Notably absent from the collection were any tablets containing religious texts or mythological narratives, which are commonly found at contemporary sites in Mesopotamia.",
+    "question": "Which finding, if true, would most strengthen the claim that the settlement prioritized commerce over religious activity?",
+    "choices": {
+      "A": "Similar clay tablets have been found at other sites in Turkey",
+      "B": "The legal tablets describe disputes similar to those found in Mesopotamian archives",
+      "C": "Cuneiform was used throughout the ancient Near East for various purposes",
+      "D": "The settlement's largest structure was a grain storage facility rather than a temple"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>Finding that the settlement's <strong>largest structure was a grain storage facility rather than a temple</strong> would provide <em>physical, architectural evidence</em> that directly complements the textual evidence from the tablets. The tablets show commerce dominated the <em>written record</em>; a grain facility as the largest building would show commerce dominated the <em>built environment</em> too — two independent lines of evidence pointing to the same conclusion.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> \"Strengthen\" and \"weaken\" questions ask you to find evidence that makes an argument more or less convincing. The strongest supporting evidence provides an <em>independent</em> line of proof — something that confirms the claim from a different angle, not just more of the same type of evidence.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"Similar clay tablets have been found at other sites in Turkey\"</strong> — This only establishes that tablets existed elsewhere. It says nothing about whether <em>this</em> settlement prioritized commerce over religion.</div><div class=\"wrong-answer-note\"><strong>B) \"The legal tablets describe disputes similar to those found in Mesopotamian archives\"</strong> — Similarity with other archives does not address the specific question of commerce <em>versus</em> religion at this settlement.</div><div class=\"wrong-answer-note\"><strong>C) \"Cuneiform was used throughout the ancient Near East for various purposes\"</strong> — This is general background information about writing systems. It provides no specific evidence about this settlement's priorities.</div>"
+  },
+  {
+    "id": "verbal-013",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "hard",
+    "passage": "Political scientist Maria Chen argues that ranked-choice voting (RCV) reduces negative campaigning because candidates must appeal to a broader electorate to secure second- and third-choice rankings. In RCV systems, voters rank candidates in order of preference; if no candidate receives a majority of first-choice votes, the lowest-performing candidate is eliminated and their voters' ballots are redistributed to the next-ranked candidate. Chen points to data from cities that adopted RCV, showing a 20% decrease in attack advertisements during election cycles compared to previous plurality elections in the same jurisdictions.",
+    "question": "Which finding, if true, would most directly undermine Chen's argument?",
+    "choices": {
+      "A": "Some voters in RCV elections still choose to rank only one candidate",
+      "B": "Cities that adopted RCV also implemented strict campaign finance regulations at the same time",
+      "C": "RCV elections tend to have slightly lower voter turnout than plurality elections",
+      "D": "Candidates in RCV elections spend more time on social media than on television"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>If cities <strong>simultaneously adopted campaign finance regulations</strong> when implementing RCV, the observed 20% decrease in attack ads could be attributed to <em>those regulations</em> rather than RCV itself. This introduces a <strong>confounding variable</strong> — an alternative explanation that undermines Chen's causal claim that RCV specifically reduces negative campaigning.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> \"Undermine\" or \"weaken\" questions almost always have a correct answer that introduces a <em>confounding variable</em> — another factor that could explain the observed result. Ask yourself: \"Is there another reason the data could look this way?\" The answer that provides an alternative explanation is usually correct.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"Some voters in RCV elections still choose to rank only one candidate\"</strong> — This is tangential. Even if some voters don't fully use the ranking system, the <em>incentive structure</em> for candidates to seek broader appeal still exists. It does not explain away the decrease in attack ads.</div><div class=\"wrong-answer-note\"><strong>C) \"RCV elections tend to have slightly lower voter turnout\"</strong> — Voter turnout is an entirely different metric from negative campaigning. Lower turnout does not undermine the claim that attack ads decreased.</div><div class=\"wrong-answer-note\"><strong>D) \"Candidates in RCV elections spend more time on social media than on television\"</strong> — This changes the <em>medium</em> of campaigning but says nothing about whether the <em>tone</em> became less negative. A shift in platform does not equal a shift in negativity.</div>"
+  },
+  {
+    "id": "verbal-014",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Sentence Boundaries",
+    "difficulty": "easy",
+    "passage": "The Pacific tree frog is one of the most commonly heard amphibians in western North America. _______ its small size \u00e2\u20ac\u201d rarely exceeding two inches in length \u00e2\u20ac\u201d its call can be heard from over a mile away on quiet nights.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Despite",
+      "B": "Because",
+      "C": "Meanwhile",
+      "D": "Although, however,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p><strong>\"Despite\"</strong> correctly introduces a <em>prepositional phrase</em> showing contrast between the frog's <strong>small size</strong> and its <strong>surprisingly loud call</strong>. The sentence structure is: \"Despite [noun phrase], [independent clause]\" — a standard concessive construction. The logic is clear: the frog is small, <em>yet</em> its call travels over a mile.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> \"Despite\" and \"although\" both show contrast, but they work differently grammatically. <em>Despite</em> takes a noun phrase (\"despite its small size\"). <em>Although</em> takes a full clause (\"although it is small\"). Knowing this distinction helps you eliminate grammar errors quickly.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>B) \"Because\"</strong> — This creates an illogical causal relationship, implying that the frog's small size <em>causes</em> its loud call. The passage presents size and loudness as contrasting, not causally linked.</div><div class=\"wrong-answer-note\"><strong>C) \"Meanwhile\"</strong> — This suggests two things happening at the same time, introducing a temporal relationship that does not fit. The frog's size and its call are not simultaneous events — they are contrasting characteristics.</div><div class=\"wrong-answer-note\"><strong>D) \"Although, however,\"</strong> — This is grammatically redundant, combining two contrast words unnecessarily. It also creates a fragment because \"although\" needs a full clause but is followed by a noun phrase (\"its small size\").</div>"
+  },
+  {
+    "id": "verbal-015",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Sentence Boundaries",
+    "difficulty": "medium",
+    "passage": "The James Webb Space Telescope has transformed our understanding of the early universe. _______ it has captured images of galaxies that formed just 300 million years after the Big Bang, providing data that challenges existing models of galaxy formation.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Specifically,",
+      "B": "Specifically",
+      "C": "Specific,",
+      "D": "Being that it is specific,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p><strong>\"Specifically,\"</strong> with a comma is correct because it serves as an <em>introductory conjunctive adverb</em> that signals the second sentence will provide a specific example of the telescope's \"transformative\" discoveries. The comma after \"Specifically\" is required by standard punctuation rules for introductory adverbs.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Introductory adverbs like <em>Specifically, However, Furthermore, Additionally,</em> and <em>Moreover</em> must be followed by a comma when they begin a sentence. If an answer choice includes one of these words without a comma, it violates Standard English conventions.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>B) \"Specifically\"</strong> (no comma) — Missing the required comma after an introductory adverb. This creates a grammatical error even though the word itself is correct.</div><div class=\"wrong-answer-note\"><strong>C) \"Specific,\"</strong> — Uses the <em>adjective</em> form instead of the <em>adverb</em> form. An adjective cannot modify an entire sentence; only an adverb can serve as a sentence-level modifier.</div><div class=\"wrong-answer-note\"><strong>D) \"Being that it is specific,\"</strong> — This is wordy, awkward, and grammatically non-standard. \"Being that\" is not accepted in formal Standard English as a conjunction, and the construction adds unnecessary words without clarity.</div>"
+  },
+  {
+    "id": "verbal-016",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Sentence Boundaries",
+    "difficulty": "medium",
+    "passage": "Restoration ecologists working in the Chesapeake Bay have introduced millions of oysters to degraded reef _______ these filter-feeding mollusks can remove algae and sediment from the water column, improving water clarity and enabling the growth of submerged aquatic vegetation.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "sites, because",
+      "B": "sites because,",
+      "C": "sites. Because",
+      "D": "sites, because,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p><strong>\"sites, because\"</strong> correctly uses a comma before the subordinating conjunction <strong>\"because\"</strong> when the because-clause provides <em>supplementary explanatory information</em>. The comma signals that the reason is additional context, not a restrictive condition. The full sentence flows logically: ecologists introduced oysters to reef sites, <em>and the reason is</em> that these mollusks filter water.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> The comma-before-\"because\" rule depends on whether the reason is <em>essential</em> or <em>supplementary</em>. When the because-clause explains <em>why</em> something was done (supplementary), a comma is appropriate. When it restricts <em>which</em> thing is meant (essential), no comma is needed.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>B) \"sites because,\"</strong> — The comma is misplaced. It appears <em>after</em> \"because\" instead of before it, which disrupts the conjunction's function and creates an ungrammatical pause in the middle of the clause.</div><div class=\"wrong-answer-note\"><strong>C) \"sites. Because\"</strong> — Starting a new sentence with \"Because\" here creates a <em>sentence fragment</em>. The \"Because\" clause has no independent clause to complete the thought — it is a dependent clause standing alone.</div><div class=\"wrong-answer-note\"><strong>D) \"sites, because,\"</strong> — Placing commas on both sides of \"because\" is non-standard punctuation. It incorrectly treats \"because\" as a parenthetical element rather than as a conjunction connecting two parts of the sentence.</div>"
+  },
+  {
+    "id": "verbal-017",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Commas and Punctuation",
+    "difficulty": "easy",
+    "passage": "Marie Curie won two Nobel _______ one in Physics in 1903 and another in Chemistry in 1911, making her the first person to win the prize in two different scientific fields.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Prizes:",
+      "B": "Prizes,",
+      "C": "Prizes;",
+      "D": "Prizes"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>A <strong>colon</strong> is the correct punctuation here because it introduces a <em>specification or elaboration</em> of what came before it. The sentence says Marie Curie won <strong>\"two Nobel Prizes\"</strong> — and the colon signals: \"here is exactly what those two prizes were.\" The colon acts as a grammatical equals sign between the general statement and the specific details.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Use a colon when what follows <em>explains, specifies, or lists</em> what came before. The key test: can you replace the colon with \"namely\" or \"that is\"? If yes, the colon is correct. A complete independent clause must come <em>before</em> the colon.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>B) \"Prizes,\"</strong> — A comma alone is too weak here. It creates a confusing run-on where the list items blur into the main clause. The reader needs a stronger signal that a specification is coming.</div><div class=\"wrong-answer-note\"><strong>C) \"Prizes;\"</strong> — A semicolon separates two <em>independent clauses</em>. What follows (\"one in Physics in 1903 and another in Chemistry in 1911\") is not an independent clause — it is a fragment that specifies the prizes.</div><div class=\"wrong-answer-note\"><strong>D) \"Prizes\"</strong> (no punctuation) — Without any punctuation, the sentence becomes a run-on. The reader cannot tell where the general statement ends and the specific list begins.</div>"
+  },
+  {
+    "id": "verbal-018",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Commas and Punctuation",
+    "difficulty": "medium",
+    "passage": "The construction of the transcontinental railroad required the labor of thousands of _______ many of whom were Chinese immigrants who faced dangerous working conditions, harsh weather, and discriminatory treatment from both employers and fellow workers.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "workers many",
+      "B": "workers; and many",
+      "C": "workers. Many",
+      "D": "workers, many"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p><strong>\"workers, many\"</strong> correctly uses a comma to introduce a <em>nonrestrictive relative clause</em> beginning with <strong>\"many of whom.\"</strong> The phrase \"many of whom were Chinese immigrants...\" provides additional information about the workers and must be set off by a comma. The relative pronoun \"whom\" connects this clause back to \"workers,\" maintaining one continuous sentence.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When you see \"many of whom,\" \"some of which,\" or \"each of whom,\" you are dealing with a <em>nonrestrictive relative clause</em>. These clauses add extra information and are always preceded by a comma — never a period or semicolon.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"workers many\"</strong> — Missing punctuation entirely. Without a comma, the reader runs straight from \"workers\" into \"many\" with no grammatical signal, creating a confusing and ungrammatical construction.</div><div class=\"wrong-answer-note\"><strong>B) \"workers; and many\"</strong> — A semicolon followed by \"and\" is used to separate items in a complex list or to join independent clauses. \"Many of whom...\" is a <em>dependent</em> clause, not an independent one, so a semicolon is grammatically incorrect here.</div><div class=\"wrong-answer-note\"><strong>C) \"workers. Many\"</strong> — A period creates a new sentence, but \"Many of whom were Chinese immigrants...\" is a <em>sentence fragment</em>. It begins with a relative pronoun (\"whom\") and has no independent clause, so it cannot stand alone as a sentence.</div>"
+  },
+  {
+    "id": "verbal-019",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Subject-Verb Agreement",
+    "difficulty": "easy",
+    "passage": "The collection of rare manuscripts housed in the university's special archives _______ available to researchers by appointment only. Each document must be handled with cotton gloves to prevent damage from natural skin oils.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "are",
+      "B": "have been",
+      "C": "were being",
+      "D": "is"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The subject of the sentence is <strong>\"collection\"</strong> (singular), not \"manuscripts.\" The prepositional phrase <strong>\"of rare manuscripts housed in the university's special archives\"</strong> modifies \"collection\" but does <em>not</em> change the grammatical number of the subject. Strip away the modifiers and the sentence reads: <em>\"The collection ... is available.\"</em> The singular verb <strong>\"is\"</strong> is required.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> The SAT loves to place long prepositional phrases between the subject and verb to create confusion. To find the true subject, mentally cross out all \"of...\" phrases. The word that remains before the verb is your subject. Words like <em>collection, group, series, number,</em> and <em>set</em> are singular even when followed by plural nouns.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"are\"</strong> — This is a plural verb that would agree with \"manuscripts,\" but \"manuscripts\" is the object of the preposition \"of,\" not the subject. The SAT tests exactly this trap — nearby plural nouns that tempt you into choosing a plural verb.</div><div class=\"wrong-answer-note\"><strong>B) \"have been\"</strong> — \"Have\" is a plural auxiliary verb (the singular form would be \"has\"). Like choice A, this incorrectly agrees with \"manuscripts\" rather than \"collection.\"</div><div class=\"wrong-answer-note\"><strong>C) \"were being\"</strong> — This shifts to past progressive tense, which contradicts the present-tense context established by the second sentence (\"Each document <em>must</em> be handled...\"). It is also plural, compounding the error.</div>"
+  },
+  {
+    "id": "verbal-020",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "passage": "Neither the lead researcher nor her graduate _______ able to replicate the results of the initial experiment. After reviewing their methodology, the team discovered a calibration error in the spectrometer that had skewed the original measurements.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "assistants were",
+      "B": "assistants was",
+      "C": "assistant are",
+      "D": "assistants have been"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>With <strong>\"neither...nor\"</strong> constructions, the verb agrees with the subject <em>closest</em> to it. Since <strong>\"graduate assistants\"</strong> (plural) is the nearer subject, the plural past-tense verb <strong>\"were\"</strong> is correct. The past tense is required because the rest of the passage uses past tense: \"discovered,\" \"had skewed.\"</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For \"neither...nor\" and \"either...or\" constructions, the verb always agrees with the <em>closer</em> subject. This is called the <strong>proximity rule</strong>. Example: \"Neither the students nor the teacher <em>was</em>\" (singular, matching \"teacher\") vs. \"Neither the teacher nor the students <em>were</em>\" (plural, matching \"students\").</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>B) \"assistants was\"</strong> — While \"assistants\" is correctly plural, the singular verb \"was\" does not agree with it. This reverses the proximity rule — the verb must match the nearer subject, which is the plural \"assistants.\"</div><div class=\"wrong-answer-note\"><strong>C) \"assistant are\"</strong> — Two errors: \"assistant\" is singular (should be plural \"assistants\" to make sense in context), and \"are\" is present tense when the passage clearly requires past tense (\"discovered,\" \"had skewed\").</div><div class=\"wrong-answer-note\"><strong>D) \"assistants have been\"</strong> — This shifts to present perfect tense (\"have been\"), which does not match the simple past narrative of the passage. The events described are completed past actions, not ongoing ones.</div>"
+  },
+  {
+    "id": "verbal-021",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Pronoun Agreement",
+    "difficulty": "medium",
+    "passage": "When a new employee joins the marketing department, _______ is assigned a mentor who provides guidance during the first six months. This mentorship program has significantly reduced turnover rates and improved job satisfaction across the organization.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they",
+      "B": "he or she",
+      "C": "you",
+      "D": "we"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The antecedent is <strong>\"a new employee\"</strong> — a singular, indefinite noun phrase in a <em>formal, professional</em> context. The pronoun <strong>\"he or she\"</strong> maintains both <strong>singular agreement</strong> and the <strong>formal register</strong> consistent with the passage's tone about workplace mentorship programs.</p><h4>Why \"he or she\" and not \"they\"?</h4><p>While singular <em>they</em> is increasingly accepted in everyday English, the SAT's Standard English Conventions questions test <strong>traditional grammar rules</strong>. When a singular indefinite antecedent appears in formal writing, \"he or she\" is the most defensibly correct choice on the exam.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Pronoun agreement questions hinge on two things: <strong>number</strong> (singular vs. plural) and <strong>person</strong> (first, second, third). Always identify the antecedent first, then match the pronoun to it in both number and person.</div><div class=\"wrong-answer-note\"><strong>A) \"they\"</strong> — Uses a plural pronoun for a singular antecedent. On the SAT, when \"he or she\" is available alongside \"they\" for a singular indefinite antecedent, the traditional singular form is preferred.</div><div class=\"wrong-answer-note\"><strong>C) \"you\"</strong> — Shifts to <em>second person</em>, breaking the third-person point of view established by the passage. This is a person-shift error.</div><div class=\"wrong-answer-note\"><strong>D) \"we\"</strong> — Shifts to <em>first person plural</em> with no antecedent to justify it. Nothing in the passage establishes a first-person perspective.</div>"
+  },
+  {
+    "id": "verbal-022",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Verb Forms",
+    "difficulty": "medium",
+    "passage": "By the time the rescue team arrived at the mountain summit, the stranded climbers _______ for nearly forty-eight hours without food or adequate shelter. The climbers' survival was attributed to their experience and preparation, including emergency thermal blankets they had packed.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "waited",
+      "B": "have waited",
+      "C": "had been waiting",
+      "D": "are waiting"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The <strong>past perfect progressive</strong> tense — <strong>\"had been waiting\"</strong> — is required here because it describes an action that <em>began before</em> a past event and <em>continued up to</em> that moment. The rescue team's arrival (simple past: \"arrived\") is the reference point, and the waiting started earlier and was still ongoing when the team got there.</p><h4>The \"By the time\" signal</h4><p>The phrase <strong>\"By the time...arrived\"</strong> is a classic SAT signal for the past perfect. It establishes a <em>sequence of two past events</em> and demands a tense that shows one action was already in progress or completed before the other.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When you see <strong>\"by the time\" + simple past verb</strong>, the other verb almost always needs <strong>past perfect</strong> (had done) or <strong>past perfect progressive</strong> (had been doing). The progressive form emphasizes the <em>ongoing duration</em> of the action — here, \"for nearly forty-eight hours\" confirms duration.</div><div class=\"wrong-answer-note\"><strong>A) \"waited\"</strong> — Simple past doesn't convey the <em>ongoing, continuous</em> nature of the waiting. It suggests a completed, one-time action rather than forty-eight hours of sustained waiting.</div><div class=\"wrong-answer-note\"><strong>B) \"have waited\"</strong> — Present perfect connects a past action to the <em>present moment</em>, but the entire narrative is set in the past. You cannot use present perfect in a past-tense context.</div><div class=\"wrong-answer-note\"><strong>D) \"are waiting\"</strong> — Present progressive describes something happening <em>right now</em>, which is incompatible with a past-tense narrative about a rescue that already occurred.</div>"
+  },
+  {
+    "id": "verbal-023",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Verb Forms",
+    "difficulty": "hard",
+    "passage": "The committee recommended that the university _______ its admissions policy to place greater emphasis on community involvement and leadership experience. Several faculty members supported this recommendation, arguing that academic metrics alone fail to capture a student's potential contributions to campus life.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "revises",
+      "B": "revised",
+      "C": "revise",
+      "D": "will revise"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The verb <strong>\"recommended that\"</strong> triggers the <strong>subjunctive mood</strong>, which requires the <em>base form</em> of the verb regardless of the subject. The correct form is <strong>\"revise\"</strong> — not \"revises\" (indicative) or any other conjugated form. This rule applies after verbs of recommendation, demand, insistence, and suggestion.</p><h4>The subjunctive formula</h4><p>The pattern is: <strong>[subject] + [verb of demand/recommendation] + that + [noun] + [base form verb]</strong>. Examples: \"She insisted that he <em>leave</em>\" (not \"leaves\"). \"They demanded that the company <em>pay</em>\" (not \"pays\"). The subject of the subordinate clause does not affect the verb form.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Watch for these subjunctive trigger verbs: <strong>recommend, suggest, demand, insist, require, request, propose, urge</strong>. When any of these appears in a \"that\" clause, the verb in the clause must be in the <em>base form</em> (infinitive without \"to\").</div><div class=\"wrong-answer-note\"><strong>A) \"revises\"</strong> — This is the third-person singular <em>indicative</em> form. It would be correct in a normal statement (\"The university revises its policy\"), but the subjunctive construction after \"recommended that\" overrides standard subject-verb agreement.</div><div class=\"wrong-answer-note\"><strong>B) \"revised\"</strong> — Past tense does not satisfy the subjunctive requirement. The recommendation concerns a <em>future</em> action, and the subjunctive base form — not the past tense — is the grammatically correct choice.</div><div class=\"wrong-answer-note\"><strong>D) \"will revise\"</strong> — Future tense is also incorrect in a subjunctive clause. The \"that\" clause after a recommendation verb never uses modal auxiliaries like \"will.\"</div>"
+  },
+  {
+    "id": "verbal-024",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "easy",
+    "passage": "Regular physical exercise has been shown to improve cardiovascular health, strengthen bones, and reduce the risk of chronic diseases such as diabetes. _______ exercise has significant mental health benefits, including reduced symptoms of anxiety and depression.",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In contrast,",
+      "B": "Nevertheless,",
+      "C": "Additionally,",
+      "D": "As a result,"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The transition <strong>\"Additionally\"</strong> correctly signals that the second sentence <em>adds another benefit</em> to those already listed. The first sentence describes physical benefits of exercise (cardiovascular health, bone strength, disease reduction). The second sentence introduces <strong>mental health benefits</strong>. Both sentences are positive claims about exercise — the relationship is purely <em>additive</em>.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> To identify the correct transition, determine the <strong>logical relationship</strong> between the two sentences: Are they <em>adding</em> to the same point? <em>Contrasting</em>? Showing <em>cause and effect</em>? Here, both sentences list benefits of the same thing (exercise), so an additive transition like \"Additionally,\" \"Furthermore,\" or \"Moreover\" is needed.</div><h4>Why the other transitions fail</h4><div class=\"wrong-answer-note\"><strong>A) \"In contrast\"</strong> — Signals that the second sentence opposes or differs from the first. But mental health benefits do not contrast with physical health benefits — they complement them.</div><div class=\"wrong-answer-note\"><strong>B) \"Nevertheless\"</strong> — Implies a concession: \"Despite what was just said, this is also true.\" There is no tension or surprise between the two sentences that would warrant a concessive transition.</div><div class=\"wrong-answer-note\"><strong>D) \"As a result\"</strong> — Implies the mental health benefits are <em>caused by</em> the physical benefits. The passage presents them as <em>separate, parallel</em> benefits of exercise, not a causal chain.</div>"
+  },
+  {
+    "id": "verbal-025",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "medium",
+    "passage": "The city council approved funding for a new public transit line connecting the downtown core to the suburban technology park. _______ several council members expressed concern about the project's $2.3 billion price tag, noting that previous infrastructure projects had exceeded their budgets by an average of 40%.",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "Furthermore,",
+      "D": "Therefore,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The transition <strong>\"However\"</strong> correctly signals a <em>contrast</em> between two ideas. The first sentence presents a <strong>positive action</strong> — the council approved funding for a new transit line. The second sentence introduces a <strong>complication</strong> — several council members are worried about the $2.3 billion cost and a history of budget overruns. The shift from approval to concern is a classic contrast relationship.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> On SAT transition questions, look for <strong>tonal shifts</strong> between sentences. When the first sentence is positive and the second raises a concern, objection, or limitation, you need a <em>contrastive</em> transition like \"However,\" \"Nevertheless,\" \"Yet,\" or \"Still.\" The word \"However\" is the SAT's most-tested contrastive transition.</div><h4>Why the other transitions fail</h4><div class=\"wrong-answer-note\"><strong>B) \"Similarly\"</strong> — Implies the concern is <em>similar to</em> the approval. Budget worries are not similar to project approval — they represent an opposing perspective on the same decision.</div><div class=\"wrong-answer-note\"><strong>C) \"Furthermore\"</strong> — An additive transition that would mean the concern <em>supports</em> or <em>extends</em> the approval. But expressing worry about cost is not an extension of approving the project — it is a counterpoint.</div><div class=\"wrong-answer-note\"><strong>D) \"Therefore\"</strong> — Implies the concern is a <em>logical consequence</em> of the approval. While the concern relates to the project, it is not caused by the approval — it represents an independent critical perspective.</div>"
+  },
+  {
+    "id": "verbal-026",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "medium",
+    "passage": "Proponents of vertical farming argue that growing crops in stacked indoor layers dramatically reduces water usage and eliminates the need for pesticides. They also point to the ability to grow food year-round, regardless of climate. _______ critics note that the energy costs of artificial lighting and climate control systems can be substantial, potentially offsetting the environmental gains from reduced water and pesticide use.",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In other words,",
+      "B": "To illustrate,",
+      "C": "Consequently,",
+      "D": "On the other hand,"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The transition <strong>\"On the other hand\"</strong> correctly introduces an <em>opposing viewpoint</em>. The passage shifts from <strong>proponents'</strong> arguments (reduced water usage, no pesticides, year-round growing) to <strong>critics'</strong> counterarguments (high energy costs offsetting environmental gains). This is a textbook shift between two sides of a debate.</p><h4>Recognizing debate structure</h4><p>The passage uses clear signal words: <strong>\"Proponents...argue\"</strong> in the first part and <strong>\"critics note\"</strong> in the second. When a passage explicitly names two opposing groups, the transition between them must signal contrast or opposition.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> \"On the other hand\" is specifically used when presenting <em>the opposing side of an argument</em>. It is stronger than \"However\" in that it explicitly signals a shift to a different group's perspective, not just a general contrast. Use it when the passage moves from one camp's view to another's.</div><div class=\"wrong-answer-note\"><strong>A) \"In other words\"</strong> — Signals a <em>restatement</em> or paraphrase of the previous idea. The critics are not restating the proponents' argument — they are challenging it with different evidence.</div><div class=\"wrong-answer-note\"><strong>B) \"To illustrate\"</strong> — Introduces an <em>example</em> that supports the previous claim. The critics' energy cost concern does not illustrate the proponents' benefits — it undermines them.</div><div class=\"wrong-answer-note\"><strong>C) \"Consequently\"</strong> — Implies the criticism is a <em>result</em> of the benefits. Energy costs are not caused by water savings or pesticide elimination — they are a separate drawback identified by a different group.</div>"
+  },
+  {
+    "id": "verbal-027",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "easy",
+    "passage": "A student is writing an essay about the significance of the Rosetta Stone. The student wants to emphasize the artifact's role in deciphering Egyptian hieroglyphics.",
+    "question": "Which choice most effectively uses information from the notes to accomplish the student's goal?",
+    "choices": {
+      "A": "The Rosetta Stone, discovered in 1799, is currently housed in the British Museum in London.",
+      "B": "The Rosetta Stone is made of granodiorite and weighs approximately 1,680 pounds.",
+      "C": "Many ancient civilizations developed their own writing systems, including the Egyptians, who used hieroglyphics.",
+      "D": "Because the Rosetta Stone contained the same text in three scripts \u00e2\u20ac\u201d hieroglyphics, Demotic, and Greek \u00e2\u20ac\u201d scholars were finally able to decode the long-mysterious Egyptian hieroglyphic writing system."
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>Choice D directly fulfills the student's goal of emphasizing the Rosetta Stone's <strong>role in deciphering hieroglyphics</strong>. It explains the <em>mechanism</em> — the stone contained the <strong>same text in three scripts</strong> (hieroglyphics, Demotic, and Greek) — and states the <em>result</em> — scholars could finally <strong>decode</strong> the writing system. This is the only choice that connects the artifact to the act of decipherment.</p><h4>How to approach Rhetorical Synthesis questions</h4><p>These questions always give you a <strong>specific goal</strong> the student wants to accomplish. Your job is to match the answer choice to that goal precisely. Ignore choices that contain true but <em>irrelevant</em> information — accuracy alone is not enough; the information must serve the stated purpose.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For Rhetorical Synthesis questions, underline the student's <strong>stated goal</strong> before reading the choices. Then ask of each choice: \"Does this <em>directly</em> achieve that goal?\" True statements that don't serve the goal are designed to distract you.</div><div class=\"wrong-answer-note\"><strong>A) Discovery date and museum location</strong> — These are factual details about the stone, but they say nothing about its role in deciphering hieroglyphics. The goal is about function, not provenance.</div><div class=\"wrong-answer-note\"><strong>B) Physical composition and weight</strong> — Material properties are completely irrelevant to the decipherment process. This is a classic distractor: true information that does not serve the stated goal.</div><div class=\"wrong-answer-note\"><strong>C) Egyptian writing systems in general</strong> — This discusses hieroglyphics but never mentions the Rosetta Stone's role in decoding them. It provides background context without addressing the specific artifact.</div>"
+  },
+  {
+    "id": "verbal-028",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "medium",
+    "passage": "A student is writing a research paper about urban wildlife adaptation. The student has the following notes:\n- Peregrine falcons have successfully colonized many major cities worldwide.\n- In urban environments, they nest on skyscrapers and bridges instead of cliff faces.\n- City pigeons provide an abundant food source for urban peregrines.\n- Urban peregrine populations have grown 300% since 1990.\n- Conservation efforts including nest box installations have supported this growth.",
+    "question": "The student wants to highlight the parallel between natural and urban falcon habitats. Which choice most effectively uses information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Peregrine falcon populations in cities have grown 300% since 1990 thanks to conservation efforts such as nest box installations.",
+      "B": "Peregrines thrive in cities partly because skyscrapers and bridges replicate the cliff-face environments where these raptors naturally nest, while abundant pigeon populations provide a reliable food source.",
+      "C": "Urban wildlife adaptation is exemplified by many species, including the peregrine falcon, which has colonized major cities worldwide.",
+      "D": "Conservation efforts, including the installation of nest boxes on tall buildings, have been crucial in supporting urban peregrine falcon populations."
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>Choice B directly <strong>draws the parallel between natural and urban habitats</strong> — stating that <strong>\"skyscrapers and bridges replicate the cliff-face environments\"</strong> where falcons naturally nest. This is the only choice that explicitly connects the two habitat types, fulfilling the student's stated goal. It also integrates the food source detail (pigeons) to explain why the urban environment works as a whole.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a Rhetorical Synthesis question asks you to \"highlight a parallel\" or \"draw a comparison,\" the correct answer must <em>name both things being compared</em> and show how they relate. A choice that mentions only one side of the comparison cannot fulfill a goal about parallels.</div><h4>Why the other choices miss the goal</h4><div class=\"wrong-answer-note\"><strong>A) Population growth and conservation</strong> — This focuses on <em>statistics</em> (300% growth) and <em>human intervention</em> (nest boxes), not on the parallel between natural cliff habitats and urban structures.</div><div class=\"wrong-answer-note\"><strong>C) General urban adaptation</strong> — Too broad. It mentions colonizing cities but never explains <em>why</em> cities work for falcons or draws any parallel to their natural habitat. The goal requires specificity, not generality.</div><div class=\"wrong-answer-note\"><strong>D) Conservation efforts</strong> — Focuses entirely on human-led support (nest boxes) rather than the <em>organic parallel</em> between cliffs and skyscrapers that the student wants to highlight.</div>"
+  },
+  {
+    "id": "verbal-029",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "medium",
+    "passage": "A student is writing about the economic impact of autonomous vehicles. The student has these notes:\n- A McKinsey report estimates autonomous vehicles could generate $300-400 billion in revenue by 2035.\n- Truck driving employs approximately 3.5 million people in the United States.\n- Autonomous technology could reduce shipping costs by 40%.\n- Retraining displaced workers could cost an estimated $50 billion.\n- New jobs in vehicle maintenance, software development, and fleet management would partially offset losses.",
+    "question": "The student wants to present a nuanced view that acknowledges both economic benefits and workforce challenges. Which choice most effectively uses information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Autonomous vehicles represent a massive economic opportunity, with McKinsey projecting $300-400 billion in revenue by 2035 and potential shipping cost reductions of 40%.",
+      "B": "The rise of autonomous vehicles threatens 3.5 million truck driving jobs in the United States, and retraining these workers could cost $50 billion.",
+      "C": "While autonomous vehicles could reduce shipping costs by 40% and generate hundreds of billions in revenue, the technology also threatens 3.5 million trucking jobs \u00e2\u20ac\u201d though new positions in vehicle maintenance, software, and fleet management would partially offset these losses.",
+      "D": "New jobs in vehicle maintenance, software development, and fleet management will be created by the autonomous vehicle industry, partially offsetting job losses in trucking."
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>Choice C is the only option that achieves the student's goal of presenting a <strong>nuanced view acknowledging both benefits and challenges</strong>. It includes <em>economic benefits</em> (40% shipping cost reduction, hundreds of billions in revenue), <em>workforce challenges</em> (3.5 million threatened jobs), and the <em>partial offset</em> (new positions in maintenance, software, and fleet management). This three-part structure creates genuine nuance.</p><h4>What \"nuanced\" means on the SAT</h4><p>A nuanced view is <strong>not one-sided</strong>. It acknowledges complexity by presenting multiple facets of an issue. When an SAT question asks for nuance or balance, the correct answer must include <em>at least two competing considerations</em> — typically a benefit and a drawback, or a claim and a qualification.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When the goal mentions \"nuanced,\" \"balanced,\" or \"acknowledges both,\" immediately eliminate any choice that presents only <em>one side</em> of the issue. The correct answer will always contain language from <em>both</em> perspectives mentioned in the goal.</div><div class=\"wrong-answer-note\"><strong>A) Benefits only</strong> — Presents revenue projections and cost reductions but completely ignores the workforce challenges. A one-sided positive view is not nuanced.</div><div class=\"wrong-answer-note\"><strong>B) Challenges only</strong> — Focuses exclusively on job losses and retraining costs without mentioning any economic benefits. A one-sided negative view is equally un-nuanced.</div><div class=\"wrong-answer-note\"><strong>D) Partial offset only</strong> — Mentions new jobs offsetting losses but never establishes the full scope of either benefits or challenges. Without context, the offset point lacks the contrast needed for a balanced view.</div>"
+  },
+  {
+    "id": "verbal-030",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "passage": "The nonprofit organization's annual report revealed that donations had surged by 45% over the previous year. The director attributed this remarkable growth to a grassroots campaign that had galvanized community members to contribute. Local businesses also played a pivotal role by matching employee donations.",
+    "question": "As used in the passage, \"pivotal\" most nearly means",
+    "choices": {
+      "A": "minor",
+      "B": "rotating",
+      "C": "crucial",
+      "D": "financial"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>In this context, <strong>\"pivotal\"</strong> means <em>crucial</em> or critically important. The passage describes a <strong>45% surge</strong> in donations, attributes it to a grassroots campaign, and then states that local businesses played a <strong>\"pivotal role\"</strong> by matching employee donations. The word describes the <em>significance</em> of the businesses' contribution to this remarkable growth.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Many Words in Context questions test whether you know the <strong>figurative</strong> meaning of a word versus its <strong>literal</strong> meaning. \"Pivotal\" literally relates to a pivot or turning point, but figuratively it means <em>crucially important</em>. On the SAT, context almost always points to the figurative meaning.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"minor\"</strong> — This is the <em>opposite</em> of pivotal. The passage emphasizes the importance of the businesses' role in a 45% donation surge — calling it minor would contradict the passage's celebratory tone.</div><div class=\"wrong-answer-note\"><strong>B) \"rotating\"</strong> — This relates to the <em>literal</em> meaning of \"pivot\" (to turn or rotate). The passage is discussing the importance of a contribution, not any physical rotation. This is a classic literal-meaning trap.</div><div class=\"wrong-answer-note\"><strong>D) \"financial\"</strong> — While the topic involves money (donations), \"pivotal\" describes the <em>importance</em> of the role, not its financial nature. This choice confuses the subject matter with the meaning of the tested word.</div>"
+  },
+  {
+    "id": "verbal-031",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "passage": "The novelist's latest work was a stark departure from her earlier, lighthearted romantic comedies. This new novel, set during the Rwandan genocide, grappled with themes of complicity and moral reckoning. Some longtime fans felt alienated by the tonal shift, but literary critics lauded the author's willingness to confront such intractable subject matter.",
+    "question": "As used in the passage, \"intractable\" most nearly means",
+    "choices": {
+      "A": "popular",
+      "B": "unfamiliar",
+      "C": "stubbornly difficult",
+      "D": "easily resolved"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p><strong>\"Intractable\"</strong> means <em>stubbornly difficult</em> to deal with or resolve. The passage discusses the <strong>Rwandan genocide</strong> and themes of <strong>\"complicity and moral reckoning\"</strong> — subject matter that resists simple answers or easy treatment. The word describes something that is deeply entrenched and resistant to resolution, which fits the gravity of genocide as a literary subject.</p><h4>Context clues in the passage</h4><p>The passage builds a contrast: the author moved from <strong>\"lighthearted romantic comedies\"</strong> to a novel about genocide. Literary critics <strong>\"lauded\"</strong> (praised) her willingness to confront this subject matter — the praise implies the subject is <em>challenging</em>, not easy, confirming the meaning of \"intractable.\"</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a passage praises someone for confronting or tackling something, that something is almost certainly <em>difficult</em>. The verb \"confront\" implies resistance — you confront things that push back. Use the surrounding verbs as clues to the tested word's meaning.</div><div class=\"wrong-answer-note\"><strong>A) \"popular\"</strong> — Popularity has nothing to do with difficulty. The passage is commenting on the <em>nature</em> of the subject matter (how hard it is to address), not its popularity with audiences.</div><div class=\"wrong-answer-note\"><strong>B) \"unfamiliar\"</strong> — While the subject might be unfamiliar to some, \"intractable\" specifically means resistant to easy handling or resolution. Unfamiliarity captures novelty but misses the essential quality of <em>stubborn resistance</em> that defines the word.</div><div class=\"wrong-answer-note\"><strong>D) \"easily resolved\"</strong> — This is the <em>direct opposite</em> of intractable. The passage's tone of praise for confronting the subject confirms it is <em>not</em> easily resolved.</div>"
+  },
+  {
+    "id": "verbal-032",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "hard",
+    "passage": "Quantum computing researchers have long grappled with the problem of decoherence \u00e2\u20ac\u201d the tendency of quantum bits to lose their delicate superposition states when exposed to environmental interference. Recent advances in error-correction codes have ameliorated this challenge somewhat, but a fully fault-tolerant quantum computer remains an aspirational rather than an imminent prospect.",
+    "question": "As used in the passage, \"ameliorated\" most nearly means",
+    "choices": {
+      "A": "eliminated entirely",
+      "B": "partially improved",
+      "C": "thoroughly investigated",
+      "D": "publicly acknowledged"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p><strong>\"Ameliorated\"</strong> means to <em>make something better</em> or improve a bad situation. The passage describes how error-correction codes have <strong>ameliorated</strong> the challenge of decoherence — they have <em>partially improved</em> the situation. The critical context clue is the word <strong>\"somewhat\"</strong>, which tells us the improvement was <em>partial</em>, not complete.</p><h4>How \"somewhat\" narrows the answer</h4><p>The qualifier \"somewhat\" does double duty: it confirms that ameliorated means improved (not investigated or acknowledged) <em>and</em> it eliminates any answer suggesting complete resolution. The passage reinforces this by noting that a fully fault-tolerant quantum computer remains <strong>\"aspirational rather than imminent.\"</strong></p><div class=\"key-insight\"><strong>SAT Tip:</strong> Pay close attention to <strong>degree words</strong> like \"somewhat,\" \"partially,\" \"largely,\" and \"entirely.\" These qualifiers often distinguish the correct answer from a close-but-too-extreme alternative. Here, \"somewhat\" eliminates \"eliminated entirely\" and confirms \"partially improved.\"</div><div class=\"wrong-answer-note\"><strong>A) \"eliminated entirely\"</strong> — Far too strong. The passage explicitly says \"somewhat\" and notes that full fault tolerance is still aspirational. \"Eliminated entirely\" directly contradicts both qualifiers.</div><div class=\"wrong-answer-note\"><strong>C) \"thoroughly investigated\"</strong> — Confuses <em>studying</em> a problem with <em>improving</em> it. The error-correction codes are presented as a <em>solution</em> (even if partial), not as a research method.</div><div class=\"wrong-answer-note\"><strong>D) \"publicly acknowledged\"</strong> — Acknowledging a problem is not the same as improving it. The passage describes the codes as having a positive <em>effect</em> on the challenge, not merely drawing attention to it.</div>"
+  },
+  {
+    "id": "verbal-033",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "passage": "In 1848, gold was discovered at Sutter's Mill in California, triggering one of the largest mass migrations in American history. Within a year, over 300,000 people \u00e2\u20ac\u201d known as \"forty-niners\" \u00e2\u20ac\u201d had flooded into the territory seeking fortune. While a handful struck it rich, the vast majority found grueling labor, inflated prices, and disappointing yields. The true beneficiaries of the Gold Rush were often the merchants and suppliers who sold picks, shovels, and provisions at enormous markups to the hopeful prospectors.",
+    "question": "The passage is primarily structured to",
+    "choices": {
+      "A": "describe a historical event and then challenge a common assumption about who benefited from it",
+      "B": "compare the experiences of two different groups during the Gold Rush",
+      "C": "argue that the California Gold Rush had a negative impact on American society",
+      "D": "provide a detailed timeline of events during the California Gold Rush"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The passage first <strong>describes a historical event</strong> — the 1848 Gold Rush and the influx of 300,000 \"forty-niners\" seeking fortune — then <strong>challenges the common assumption</strong> that the miners were the ones who benefited. The key structural pivot is the sentence: <strong>\"The true beneficiaries...were often the merchants and suppliers.\"</strong> This reveals that the passage's purpose is to subvert the reader's expectation about who profited.</p><h4>Identifying the structural pivot</h4><p>Look for the word <strong>\"while\"</strong> in the third sentence: \"While a handful struck it rich, the vast majority found grueling labor.\" This signals the turn from describing the event to challenging assumptions about it. The final sentence completes the subversion by naming the <em>actual</em> beneficiaries.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a passage tells a familiar story and then uses words like <strong>\"while,\" \"but,\" \"however,\"</strong> or <strong>\"the true...\"</strong> to shift direction, the structure is likely <em>describe-then-challenge</em>. The SAT loves passages that set up a common belief and then undermine it — look for the pivot point.</div><div class=\"wrong-answer-note\"><strong>B) \"compare the experiences of two different groups\"</strong> — While miners and merchants are both mentioned, the passage's <em>purpose</em> is not neutral comparison. It uses the merchants to <em>challenge</em> the assumption that miners were the main beneficiaries. The comparison serves the larger goal of subverting expectations.</div><div class=\"wrong-answer-note\"><strong>C) \"argue that the Gold Rush had a negative impact\"</strong> — The passage doesn't make a broad argument about societal impact. It focuses narrowly on <em>who benefited</em>, not whether the event was good or bad for America.</div><div class=\"wrong-answer-note\"><strong>D) \"provide a detailed timeline\"</strong> — The passage mentions only one date (1848) and \"within a year.\" This is far too sparse to constitute a \"detailed timeline.\" The structure is about challenging assumptions, not chronicling events.</div>"
+  },
+  {
+    "id": "verbal-034",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "hard",
+    "passage": "The concept of neuroplasticity \u00e2\u20ac\u201d the brain's ability to reorganize itself by forming new neural connections \u00e2\u20ac\u201d has revolutionized rehabilitation medicine. Patients who suffer strokes, for example, can often regain lost motor functions as healthy brain regions gradually assume the responsibilities of damaged areas. However, neuroplasticity operates within constraints. The extent of recovery depends on the severity of the injury, the patient's age, and the intensity and timing of rehabilitation. Furthermore, maladaptive plasticity can occur, in which the brain's reorganization leads to chronic pain or phantom limb sensations, underscoring that neural reorganization is not inherently beneficial.",
+    "question": "Which choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Neuroplasticity always leads to full recovery from brain injuries",
+      "B": "While neuroplasticity offers significant therapeutic potential, it has important limitations and can sometimes produce harmful outcomes",
+      "C": "Stroke patients should begin rehabilitation as early as possible to maximize recovery",
+      "D": "The brain's ability to form new neural connections was only recently discovered"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The passage presents a <strong>balanced view of neuroplasticity</strong>: it has significant <em>therapeutic potential</em> (stroke patients regaining motor functions) but also <em>important limitations</em> (constrained by injury severity, age, and rehabilitation timing) and can even produce <em>harmful outcomes</em> (maladaptive plasticity causing chronic pain or phantom limb sensations). Choice B captures this full spectrum — benefit, limitation, and potential harm.</p><h4>How the passage builds its argument</h4><p>The structure follows a clear pattern: <strong>positive claim</strong> (neuroplasticity has revolutionized rehabilitation) → <strong>qualification</strong> (\"However, neuroplasticity operates within constraints\") → <strong>negative example</strong> (maladaptive plasticity). The word <strong>\"However\"</strong> and the phrase <strong>\"underscoring that neural reorganization is not inherently beneficial\"</strong> are the key signals that the main idea is about balance, not unqualified praise.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For Central Ideas questions, the correct answer usually captures the passage's <strong>full scope</strong>, including qualifications. If a passage says \"X is great, but it has limits,\" the main idea is about <em>both</em> the greatness and the limits — not just one or the other.</div><div class=\"wrong-answer-note\"><strong>A) \"always leads to full recovery\"</strong> — The word \"always\" makes this immediately wrong. The passage explicitly states that recovery depends on multiple factors and that maladaptive plasticity can occur. Absolute claims almost never capture a nuanced main idea.</div><div class=\"wrong-answer-note\"><strong>C) \"begin rehabilitation as early as possible\"</strong> — This is a <em>supporting detail</em> (the passage mentions \"timing of rehabilitation\"), not the main idea. The main idea encompasses the full range of neuroplasticity's effects, not just one practical recommendation.</div><div class=\"wrong-answer-note\"><strong>D) \"only recently discovered\"</strong> — The passage never claims neuroplasticity was recently discovered. It says the concept \"has revolutionized\" rehabilitation — a statement about impact, not about the timing of discovery.</div>"
+  },
+  {
+    "id": "verbal-035",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "passage": "Octopuses are widely regarded as the most intelligent invertebrates. They can solve complex puzzles, open childproof containers, and even recognize individual human faces. In laboratory settings, octopuses have demonstrated the ability to learn by observation \u00e2\u20ac\u201d watching another octopus complete a task and then replicating the behavior. Their intelligence is especially remarkable given that they have short lifespans, typically living only one to two years.",
+    "question": "According to the passage, what makes octopus intelligence particularly notable?",
+    "choices": {
+      "A": "They live in deep ocean environments",
+      "B": "They can communicate with humans",
+      "C": "They achieve high intelligence despite very short lifespans",
+      "D": "They are the only invertebrates that can solve puzzles"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The passage explicitly states that octopus intelligence is <strong>\"especially remarkable given that they have short lifespans, typically living only one to two years.\"</strong> This directly connects their cognitive abilities to the <em>surprising context</em> of their brief lives. The word <strong>\"especially remarkable given\"</strong> is the key phrase — it tells you exactly what makes their intelligence <em>particularly notable</em>.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For detail questions that ask \"According to the passage,\" the answer must be <strong>directly stated</strong> in the text, not inferred. Look for exact or near-exact matches between the answer choice and the passage. Here, the passage says \"especially remarkable given...short lifespans\" and Choice C says \"despite very short lifespans\" — these are paraphrases of the same point.</div><h4>Why the other choices fail</h4><div class=\"wrong-answer-note\"><strong>A) \"live in deep ocean environments\"</strong> — The passage never mentions where octopuses live. Their habitat is not discussed as a factor in their intelligence. This is an outside-knowledge trap — even if true, it is not stated in the passage.</div><div class=\"wrong-answer-note\"><strong>B) \"communicate with humans\"</strong> — The passage says octopuses can <em>recognize</em> individual human faces, but recognition is not the same as communication. This choice distorts a specific detail from the passage.</div><div class=\"wrong-answer-note\"><strong>D) \"the only invertebrates that can solve puzzles\"</strong> — The passage says octopuses are the <em>most intelligent</em> invertebrates, not the <em>only</em> ones that can solve puzzles. \"Most\" and \"only\" are very different claims — watch for this kind of word substitution on the SAT.</div>"
+  },
+  {
+    "id": "verbal-036",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "passage": "In many parts of Japan, vending machines sell not only drinks and snacks but also fresh eggs, flowers, umbrellas, and even surgical masks. There are approximately 5.5 million vending machines in the country \u00e2\u20ac\u201d roughly one for every 23 people. This density is partly due to Japan's low crime rate, which makes it economically viable to place machines in unsupervised outdoor locations.",
+    "question": "It can most reasonably be inferred from the passage that in countries with higher crime rates,",
+    "choices": {
+      "A": "vending machines are not technologically feasible",
+      "B": "there is no demand for vending machine products",
+      "C": "people prefer to buy products in stores rather than from machines",
+      "D": "vending machines would be less profitable in unsupervised outdoor locations"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The passage states that Japan's low crime rate makes it <strong>\"economically viable to place machines in unsupervised outdoor locations.\"</strong> The logical inverse is that <em>higher crime rates</em> would make such placements <strong>less profitable</strong> — machines in unsupervised locations would face theft, vandalism, or other losses that reduce economic viability.</p><h4>How to handle inference questions</h4><p>Inference questions ask you to take one logical step beyond what the passage states. The passage says: low crime → economically viable for unsupervised machines. The valid inference is: higher crime → <em>less</em> economically viable. You are simply flipping the condition and tracing the consequence.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Valid SAT inferences are <strong>small logical steps</strong>, not giant leaps. If the passage says \"A leads to B,\" you can infer that without A, B is less likely. But you <em>cannot</em> infer that without A, B is impossible — that is too extreme. Notice how Choice D says \"less profitable\" (moderate) rather than \"impossible\" (extreme).</div><div class=\"wrong-answer-note\"><strong>A) \"not technologically feasible\"</strong> — The passage discusses <em>economic viability</em>, not technology. Crime affects profitability, not whether machines can physically function. This confuses two different concepts.</div><div class=\"wrong-answer-note\"><strong>B) \"no demand for vending machine products\"</strong> — The issue is about <em>placement viability</em>, not consumer demand. People in high-crime countries may still want vending machine products; the problem is that unsupervised machines face security risks.</div><div class=\"wrong-answer-note\"><strong>C) \"people prefer to buy products in stores\"</strong> — The passage makes no claims about consumer preferences. This introduces an entirely new variable (shopping preferences) that has no basis in the text.</div>"
+  },
+  {
+    "id": "verbal-037",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "hard",
+    "passage": "Linguist Noam Chomsky proposed that humans possess an innate \"language acquisition device\" \u00e2\u20ac\u201d a biological predisposition to learn language that is hardwired into the brain. This theory explains why children worldwide follow remarkably similar stages of language development, regardless of the specific language they are learning. However, studies of feral children \u00e2\u20ac\u201d those raised without human contact \u00e2\u20ac\u201d reveal that individuals not exposed to language during a critical period in early childhood struggle profoundly and often permanently to acquire full linguistic competence.",
+    "question": "The information about feral children most directly suggests that",
+    "choices": {
+      "A": "Chomsky's theory is entirely incorrect",
+      "B": "an innate capacity for language may require environmental activation within a specific timeframe",
+      "C": "feral children are biologically different from other humans",
+      "D": "language acquisition is entirely dependent on formal instruction"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The feral children evidence suggests that while the <strong>biological capacity</strong> for language may exist (supporting Chomsky's innate \"language acquisition device\"), it requires <strong>environmental exposure during a critical period</strong> to be properly activated. This represents a nuanced <em>nature-plus-nurture</em> interaction: the hardware is innate, but it needs environmental input within a specific timeframe to function.</p><h4>How the passage builds the inference</h4><p>The passage presents two pieces of evidence: (1) children worldwide follow similar language development stages (<em>supporting</em> an innate capacity), and (2) feral children who miss the critical period struggle permanently (<em>qualifying</em> that capacity with a condition). The word <strong>\"However\"</strong> signals that the feral children evidence <em>complicates</em> Chomsky's theory rather than refuting it.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a passage presents a theory and then introduces evidence with <strong>\"However\"</strong>, the evidence usually <em>qualifies</em> or <em>adds nuance to</em> the theory — it rarely refutes it entirely. The correct inference will typically be moderate (\"may require,\" \"suggests that\") rather than absolute (\"proves\" or \"is entirely incorrect\").</div><div class=\"wrong-answer-note\"><strong>A) \"Chomsky's theory is entirely incorrect\"</strong> — Too extreme. The feral children evidence does not disprove the existence of an innate capacity — it adds a <em>condition</em> (environmental exposure) to how that capacity develops. The word \"entirely\" makes this answer indefensible.</div><div class=\"wrong-answer-note\"><strong>C) \"feral children are biologically different\"</strong> — The passage implies feral children have the <em>same</em> innate capacity but lacked the environmental trigger. There is no suggestion of biological difference — the issue is environmental deprivation during a critical window.</div><div class=\"wrong-answer-note\"><strong>D) \"entirely dependent on formal instruction\"</strong> — The passage emphasizes <em>exposure</em> to language, not formal instruction. Feral children lacked any human contact, not just schooling. Also, \"entirely dependent\" contradicts Chomsky's innate capacity theory, which the passage does not reject.</div>"
+  },
+  {
+    "id": "verbal-038",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "medium",
+    "passage": "The monarch butterfly's annual migration covers up to 3,000 miles, from Canada to central Mexico. Unlike birds, which learn migration routes from experienced flock members, monarchs navigate using an internal compass that relies on the position of the sun and Earth's magnetic field. Remarkably, the butterflies that make the southward journey in autumn have never traveled the route before \u00e2\u20ac\u201d they are several generations removed from the monarchs that made the trip the previous year.",
+    "question": "Which choice best describes the evidence the passage uses to demonstrate the remarkability of monarch migration?",
+    "choices": {
+      "A": "A comparison of butterfly and bird migration distances",
+      "B": "The fact that migrating monarchs navigate a route they have never personally traveled",
+      "C": "Scientific measurements of Earth's magnetic field",
+      "D": "Statistics about monarch butterfly population decline"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The passage explicitly calls the migration <strong>\"remarkable\"</strong> and then provides the evidence: the butterflies <strong>\"have never traveled the route before\"</strong> and are <strong>\"several generations removed\"</strong> from the monarchs that made the trip the previous year. This is the specific evidence used to demonstrate how extraordinary the migration is — they navigate 3,000 miles with no prior experience and no learned knowledge from ancestors.</p><h4>Distinguishing evidence types</h4><p>The passage contains several facts about monarch migration, but the question asks specifically about evidence for the migration's <em>remarkability</em>. The distance (3,000 miles) is impressive, but the passage reserves the word \"remarkably\" for the generational navigation feat, not the distance itself.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Command of Evidence questions ask you to identify <em>which specific evidence</em> supports a particular claim. Look for the word or phrase in the passage that signals the claim (here, \"Remarkably\"), then identify what evidence directly follows that signal. The evidence right after the signal word is almost always the answer.</div><div class=\"wrong-answer-note\"><strong>A) \"comparison of migration distances\"</strong> — The passage compares <em>navigation methods</em> (internal compass vs. learned routes), not distances. Bird migration distances are never mentioned.</div><div class=\"wrong-answer-note\"><strong>C) \"scientific measurements of Earth's magnetic field\"</strong> — The magnetic field is mentioned as part of the navigation mechanism, but no measurements or scientific data are presented. This is a factual detail about <em>how</em> they navigate, not evidence for <em>why</em> the migration is remarkable.</div><div class=\"wrong-answer-note\"><strong>D) \"statistics about population decline\"</strong> — Population decline is never mentioned anywhere in the passage. This is a common outside-knowledge trap — monarch decline is well-known, but the passage does not discuss it.</div>"
+  },
+  {
+    "id": "verbal-039",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Commas and Punctuation",
+    "difficulty": "medium",
+    "passage": "The marine biologist who first identified the new coral species _______ Dr. Yuki Tanaka of the Okinawa Institute of Science and Technology _______ published her findings in the journal Nature in 2024.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "\u00e2\u20ac\u201d Dr. Yuki Tanaka of the Okinawa Institute of Science and Technology \u00e2\u20ac\u201d",
+      "B": "Dr. Yuki Tanaka of the Okinawa Institute of Science and Technology",
+      "C": ", Dr. Yuki Tanaka of the Okinawa Institute of Science and Technology",
+      "D": ": Dr. Yuki Tanaka of the Okinawa Institute of Science and Technology,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p><strong>Em dashes</strong> are the correct punctuation to set off the appositive <strong>\"Dr. Yuki Tanaka of the Okinawa Institute of Science and Technology\"</strong> within this sentence. The appositive renames \"the marine biologist\" and is inserted as a <em>parenthetical interruption</em> in the middle of the sentence. Em dashes properly frame this information, allowing the sentence to flow: \"The marine biologist who first identified the new coral species — Dr. Yuki Tanaka... — published her findings...\"</p><h4>When to use em dashes vs. commas</h4><p>Em dashes are preferred over commas when the appositive is <strong>long</strong>, contains <strong>internal commas</strong>, or creates a <strong>strong interruption</strong>. Here, the appositive includes both a name and an institutional affiliation, making it a substantial interruption that em dashes handle more cleanly than commas.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Parenthetical elements must be set off with <strong>matching punctuation</strong> — two commas, two em dashes, or two parentheses. If one em dash opens the aside, another must close it. A single comma or a mismatched pair (colon + comma) is always incorrect.</div><div class=\"wrong-answer-note\"><strong>B) No punctuation</strong> — Without any punctuation, the appositive runs into the sentence, creating a grammatically incorrect structure. The sentence would read as a jumbled run-on without clear boundaries for the parenthetical information.</div><div class=\"wrong-answer-note\"><strong>C) Single comma only</strong> — Uses one comma before the appositive but nothing after it. Parenthetical elements require <em>paired</em> punctuation — you cannot open with a comma and close with nothing.</div><div class=\"wrong-answer-note\"><strong>D) Colon and comma</strong> — A colon introduces a list or explanation and is not used to set off mid-sentence appositives. Additionally, the colon-comma combination is not a recognized punctuation pair in Standard English.</div>"
+  },
+  {
+    "id": "verbal-040",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Pronoun Agreement",
+    "difficulty": "easy",
+    "passage": "The school board announced that _______ would implement a new literacy program beginning in the fall semester. The program focuses on phonics-based instruction for students in kindergarten through third grade.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they",
+      "B": "those",
+      "C": "he",
+      "D": "it"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p><strong>\"The school board\"</strong> is a <em>singular collective noun</em> — it refers to one organizational body, not individual members. The singular pronoun <strong>\"it\"</strong> correctly matches this singular antecedent. The sentence is discussing the board as a unified entity making a single decision (implementing a literacy program), which reinforces the singular treatment.</p><h4>Collective nouns on the SAT</h4><p>Collective nouns like <strong>board, committee, team, jury, family, government</strong> are treated as <em>singular</em> in American English when the group acts as a unit. The SAT consistently follows this convention. You would only use a plural pronoun if the members were acting <em>individually</em> (e.g., \"The committee disagreed among themselves\"), which is rare on the test.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When you see a collective noun as the antecedent, default to a <strong>singular pronoun</strong> (it/its) on the SAT. The test almost always presents the group acting as a unified body. Watch for trap answers that use \"they\" — this is the most common wrong answer for collective noun questions.</div><div class=\"wrong-answer-note\"><strong>A) \"they\"</strong> — Plural pronoun for a singular collective noun. While \"they\" might sound natural in casual speech (\"The board said they would...\"), in formal Standard English tested on the SAT, a collective noun acting as a unit takes a singular pronoun.</div><div class=\"wrong-answer-note\"><strong>B) \"those\"</strong> — A demonstrative pronoun that points to specific items, not a personal pronoun that refers back to an antecedent. \"Those\" does not grammatically function as a subject pronoun referring to \"the school board.\"</div><div class=\"wrong-answer-note\"><strong>C) \"he\"</strong> — A gendered, singular pronoun that refers to a male individual. An organization like a school board is not a person and cannot be referred to with a gendered pronoun.</div>"
+  },
+  {
+    "id": "verbal-041",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Pronoun Agreement",
+    "difficulty": "hard",
+    "passage": "Each of the three competing pharmaceutical companies has invested heavily in _______ Alzheimer's drug research program, collectively spending over $12 billion in the past decade. Despite this investment, a viable treatment that halts disease progression remains elusive.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "its",
+      "B": "their",
+      "C": "it's",
+      "D": "there"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The correct answer is <strong>A) its</strong>. The grammatical subject of this sentence is <strong>each</strong>, which is an <strong>indefinite singular pronoun</strong>. Even though the phrase 'of the three competing pharmaceutical companies' contains a plural noun, <strong>each always takes a singular verb and singular pronoun</strong>. Therefore, the singular possessive pronoun <strong>its</strong> is required to agree with 'each.'</p><h4>Understanding the Sentence Structure</h4><p>The prepositional phrase 'of the three competing pharmaceutical companies' is a <em>modifier</em> that tells us more about 'each' but does not change the grammatical number of the subject. Strip the sentence down: <em>Each ... has invested heavily in ___ program.</em> You would never say 'each have' or 'each ... their' in formal Standard English.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> On pronoun agreement questions, always identify the <strong>true antecedent</strong>. Words like <em>each, every, everyone, neither, either, anybody,</em> and <em>nobody</em> are <strong>always singular</strong> on the SAT, even when followed by plural prepositional phrases. Don't be tricked by nearby plural nouns.</div><div class=\"wrong-answer-note\"><strong>Why not B) their?</strong> 'Their' is a <strong>plural possessive pronoun</strong>. While it might sound natural in everyday speech when referring to 'companies,' the SAT tests formal agreement rules. The antecedent is 'each' (singular), not 'companies,' so 'their' creates a pronoun-antecedent agreement error.</div><div class=\"wrong-answer-note\"><strong>Why not C) it's?</strong> This is a <strong>contraction of 'it is' or 'it has'</strong> and is never a possessive pronoun. Plugging it in produces the nonsensical reading 'Each has invested heavily in it is Alzheimer's drug research program.' The possessive form is always <strong>its</strong> (no apostrophe).</div><div class=\"wrong-answer-note\"><strong>Why not D) there?</strong> 'There' is an <strong>adverb of place</strong> (or an expletive as in 'there is'). It cannot function as a possessive pronoun. This choice tests whether you can distinguish between the homophones <em>their/there/they're</em>.</div>"
+  },
+  {
+    "id": "verbal-042",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Verb Forms",
+    "difficulty": "medium",
+    "passage": "The park rangers _______ the trail conditions every morning before allowing hikers to begin their ascent. After heavy rainfall last week, they temporarily closed two routes due to rockslide danger.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "assessing",
+      "B": "to assess",
+      "C": "has assessed",
+      "D": "assess"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The correct answer is <strong>D) assess</strong>. The <strong>simple present tense</strong> is needed here because the sentence describes a <strong>habitual, recurring action</strong> signaled by the phrase <strong>'every morning.'</strong> Since the subject 'park rangers' is <strong>plural</strong>, the base form <strong>'assess'</strong> (without an -s ending) is the correct conjugation.</p><h4>Why Simple Present Tense?</h4><p>Time-marker phrases like <em>every morning, each day, always,</em> and <em>typically</em> indicate <strong>habitual actions</strong>, which require the simple present tense in English. The second sentence shifts to past tense ('last week'), but the first sentence describes what the rangers <em>routinely</em> do, not what they did on one occasion.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a sentence describes a <strong>routine or habitual action</strong>, use the <strong>simple present tense</strong>. Look for time-marker clues like 'every,' 'always,' 'typically,' or 'each.' Also remember: a sentence needs a <strong>finite (conjugated) verb</strong> to be complete — participles and infinitives alone cannot serve as the main verb.</div><div class=\"wrong-answer-note\"><strong>Why not A) assessing?</strong> 'Assessing' is a <strong>present participle</strong>, not a finite verb. Using it here would produce 'The park rangers assessing the trail conditions every morning...' which is a <strong>sentence fragment</strong> with no main verb. A participle needs a helping verb (like 'are assessing') to function as a complete predicate.</div><div class=\"wrong-answer-note\"><strong>Why not C) has assessed?</strong> 'Has' is a <strong>singular auxiliary verb</strong> that does not agree with the plural subject 'park rangers.' The correct plural form would be 'have assessed,' but even that would shift the tense to present perfect, which does not match the habitual meaning conveyed by 'every morning.'</div><div class=\"wrong-answer-note\"><strong>Why not B) to assess?</strong> 'To assess' is an <strong>infinitive</strong>, which cannot serve as the main verb of a sentence. It would produce 'The park rangers to assess the trail conditions...' — a construction with no predicate and therefore a sentence fragment.</div>"
+  },
+  {
+    "id": "verbal-043",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "medium",
+    "passage": "Elephants are known for their exceptional memories. They can remember the locations of water sources across vast territories, even after years of absence. _______ elephants have been observed mourning their dead, returning to the remains of deceased family members and gently touching the bones with their trunks.",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For instance,",
+      "B": "In addition,",
+      "C": "By contrast,",
+      "D": "Therefore,"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The correct answer is <strong>B) In addition,</strong>. The transition <strong>'In addition'</strong> correctly signals that the second sentence is <strong>adding a new, separate point</strong> to the discussion. The passage first describes elephants' exceptional <strong>memory</strong>, then introduces a different impressive behavior — <strong>mourning their dead</strong>. Both are remarkable cognitive and emotional capacities, and 'In addition' properly links them as parallel examples of elephant intelligence.</p><h4>How to Identify Additive Transitions</h4><p>When two consecutive sentences present <strong>different supporting points about the same topic</strong> (here, elephant intelligence), an <em>additive</em> transition is needed. Key additive transitions include: <em>In addition, Furthermore, Moreover, Also,</em> and <em>Additionally.</em> These differ from <em>exemplification</em> transitions like 'For instance,' which introduce a specific example of the <strong>same</strong> point.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Distinguish between <strong>additive</strong> transitions (adding a new point) and <strong>exemplification</strong> transitions (giving an example of the same point). If the second sentence introduces a <em>different</em> behavior, fact, or argument, use an additive transition. If it illustrates or provides a specific instance of the <em>same</em> claim, use 'For instance' or 'For example.'</div><div class=\"wrong-answer-note\"><strong>Why not A) For instance?</strong> 'For instance' would mean the mourning behavior is an <strong>example of exceptional memory</strong>. But mourning the dead is a <em>different</em> behavior — it demonstrates emotional depth, not memory. The passage is adding a new point, not illustrating the previous one.</div><div class=\"wrong-answer-note\"><strong>Why not C) By contrast?</strong> 'By contrast' signals that the second sentence <strong>opposes or differs from</strong> the first. However, both sentences describe <em>impressive</em> elephant behaviors — there is no opposition or contradiction between memory and mourning. They are complementary points.</div><div class=\"wrong-answer-note\"><strong>Why not D) Therefore?</strong> 'Therefore' implies a <strong>cause-and-effect</strong> relationship — that mourning behavior is a <em>result</em> of having good memory. The passage does not suggest this causal connection; it simply lists two separate remarkable behaviors side by side.</div>"
+  },
+  {
+    "id": "verbal-044",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "medium",
+    "passage": "The Mediterranean diet, rich in olive oil, fish, and vegetables, has been associated with reduced rates of heart disease and longer life expectancy. Researchers initially attributed these benefits primarily to the diet's high content of monounsaturated fats. _______ more recent studies suggest that the diet's anti-inflammatory properties, driven by polyphenols found in olive oil and red wine, may be equally or more important.",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "As a result,",
+      "C": "Similarly,",
+      "D": "In summary,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The correct answer is <strong>A) However,</strong>. The transition <strong>'However'</strong> correctly signals a <strong>contrast or revision</strong> between the initial scientific understanding and newer findings. Researchers <em>initially</em> attributed the Mediterranean diet's benefits to <strong>monounsaturated fats</strong>, but <em>more recent</em> studies point to <strong>anti-inflammatory polyphenols</strong> as equally or more important. 'However' marks this shift from old explanation to new evidence.</p><h4>Recognizing Contrast Transitions</h4><p>The key language clues here are <strong>'initially'</strong> and <strong>'more recent studies suggest.'</strong> When a passage presents an earlier view followed by a newer, different perspective, a <em>contrast</em> transition is required. Other contrast transitions include: <em>Nevertheless, On the other hand, Yet, Conversely,</em> and <em>In contrast.</em></p><div class=\"key-insight\"><strong>SAT Tip:</strong> Watch for <strong>time-shift language</strong> in transition questions. Words like 'initially,' 'previously,' 'originally,' followed by 'now,' 'recently,' or 'more recent' almost always signal that the author is <strong>revising or contrasting</strong> an earlier view. This pattern reliably calls for a contrast transition like 'However' or 'Nevertheless.'</div><div class=\"wrong-answer-note\"><strong>Why not C) Similarly?</strong> 'Similarly' signals that the second idea <strong>agrees with or parallels</strong> the first. But the newer research does not agree — it <em>revises</em> the initial explanation by proposing a different mechanism (polyphenols instead of monounsaturated fats). The relationship is one of contrast, not similarity.</div><div class=\"wrong-answer-note\"><strong>Why not B) As a result?</strong> 'As a result' implies <strong>cause and effect</strong> — that the newer findings were caused by the initial attribution. But the newer research is an independent finding that challenges the earlier explanation, not a consequence of it.</div><div class=\"wrong-answer-note\"><strong>Why not D) In summary?</strong> 'In summary' signals a <strong>conclusion or recap</strong> of previously stated ideas. The second sentence introduces <em>new</em> information (polyphenols) that was not previously mentioned, so this is not a summary — it is a contrasting development.</div>"
+  },
+  {
+    "id": "verbal-045",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "medium",
+    "passage": "A student is writing about the environmental impact of fast fashion. The student has these notes:\n- The fashion industry produces 10% of global carbon emissions.\n- The average American discards approximately 82 pounds of textile waste per year.\n- Synthetic fabrics like polyester release microplastics when washed.\n- Some companies have launched clothing recycling programs.\n- Only 15% of discarded clothing is recycled or donated; the rest goes to landfills.",
+    "question": "The student wants to emphasize the scale of the waste problem in the fashion industry. Which choice most effectively uses information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some fashion companies have responded to environmental concerns by launching clothing recycling programs.",
+      "B": "The fashion industry is responsible for 10% of global carbon emissions, partly because synthetic fabrics like polyester release harmful microplastics.",
+      "C": "With the average American discarding 82 pounds of textile waste annually and 85% of discarded clothing ending up in landfills, the fashion industry's waste problem is staggering in scale.",
+      "D": "Polyester and other synthetic fabrics release microplastics during washing, contributing to ocean pollution."
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The correct answer is <strong>C</strong>. Choice C most effectively emphasizes the <strong>scale of the waste problem</strong> by combining two striking statistics: the <strong>82 pounds of textile waste per American annually</strong> and the fact that <strong>85% of discarded clothing ends up in landfills</strong>. Together, these numbers paint a vivid picture of the sheer magnitude of fashion waste. The word <strong>'staggering'</strong> further reinforces the emphasis on scale.</p><h4>Why This Choice Matches the Goal</h4><p>The student's stated goal is to emphasize the <em>scale of the waste problem</em>. This means the best answer must focus specifically on <strong>waste</strong> (not emissions or microplastics) and convey <strong>magnitude</strong> (using concrete numbers). Choice C is the only option that directly addresses both criteria by quantifying the waste problem at both the individual and systemic level.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> In Rhetorical Synthesis questions, the <strong>student's stated goal</strong> is your most important guide. Read it carefully and match each answer choice against it. An answer might be factually accurate and well-written but still wrong if it does not accomplish the <em>specific</em> rhetorical purpose described in the question. Always ask: 'Does this choice do what the student wants?'</div><div class=\"wrong-answer-note\"><strong>Why not A?</strong> Choice A focuses on <strong>solutions</strong> (recycling programs) rather than the scale of the problem. While relevant to the broader topic, it does not emphasize how large the waste problem is.</div><div class=\"wrong-answer-note\"><strong>Why not B?</strong> Choice B discusses <strong>carbon emissions and microplastics</strong>, which are environmental impacts of the fashion industry but are <em>different categories</em> from the waste problem. The student wants to emphasize waste specifically, not emissions or pollution more broadly.</div><div class=\"wrong-answer-note\"><strong>Why not D?</strong> Choice D addresses only <strong>microplastics from synthetic fabrics</strong>, which is a narrow subset of environmental impact and not the same as the overall textile waste problem. It also lacks the statistical emphasis on scale that the student needs.</div>"
+  },
+  {
+    "id": "verbal-046",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "passage": "Sourdough bread has experienced a remarkable resurgence in popularity. Unlike commercial bread made with packaged yeast, sourdough relies on a living culture of wild yeast and beneficial bacteria. These microorganisms ferment the dough slowly, typically over 12 to 24 hours, producing the bread's distinctive tangy flavor and chewy texture. The long fermentation also breaks down gluten proteins, which some people find makes sourdough easier to digest than conventionally made bread.",
+    "question": "What is the primary purpose of the passage?",
+    "choices": {
+      "A": "To argue that sourdough bread is healthier than all other types of bread",
+      "B": "To trace the history of bread-making across different cultures",
+      "C": "To provide a recipe for making sourdough bread at home",
+      "D": "To explain what makes sourdough bread different from commercial bread"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The correct answer is <strong>D) To explain what makes sourdough bread different from commercial bread</strong>. The passage is structured as a <strong>comparison</strong> between sourdough and commercial bread. It highlights three key differences: sourdough uses <strong>wild yeast and bacteria</strong> instead of packaged yeast, it undergoes a <strong>slow 12-to-24-hour fermentation</strong>, and this process produces distinctive <strong>flavor, texture, and digestibility</strong>. The passage's primary purpose is explanatory.</p><h4>Identifying Purpose in Informational Passages</h4><p>Notice how every sentence in this passage contributes to explaining <em>what makes sourdough unique</em>. The opening sentence notes sourdough's popularity, then the passage immediately pivots to <strong>'Unlike commercial bread...'</strong> — a direct comparison that frames everything that follows. This 'unlike' structure is a strong signal that the author's purpose is to <em>explain differences</em>.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When identifying a passage's purpose, look at <strong>how the majority of the text is structured</strong>. If most sentences explain how something works or compare two things, the purpose is likely <em>explanatory</em>. Be wary of answer choices that overstate claims (like 'argue' or 'healthier than all') when the passage uses <strong>hedging language</strong> like 'some people find.'</div><div class=\"wrong-answer-note\"><strong>Why not A?</strong> Choice A claims the passage <strong>argues that sourdough is healthier than all other bread</strong>. This is an overstatement. The passage uses cautious, hedging language — 'some people find makes sourdough easier to digest' — not a universal health claim. The SAT frequently uses overstated answer choices to trap students.</div><div class=\"wrong-answer-note\"><strong>Why not C?</strong> The passage provides <strong>no recipe, measurements, or step-by-step instructions</strong> for making sourdough bread. It describes the fermentation process from a scientific perspective, not as a how-to guide. Information about a process is not the same as instructions for replicating it.</div><div class=\"wrong-answer-note\"><strong>Why not B?</strong> The passage does not trace the <strong>history of bread-making across different cultures</strong>. While it mentions sourdough's 'resurgence in popularity,' this is a single observation, not a historical survey. No other cultures, time periods, or bread traditions are discussed.</div>"
+  },
+  {
+    "id": "verbal-047",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "passage": "The concept of \"rewilding\" \u00e2\u20ac\u201d reintroducing native species to ecosystems from which they have disappeared \u00e2\u20ac\u201d has gained traction among conservationists. In Yellowstone National Park, the 1995 reintroduction of gray wolves led to a cascade of ecological changes. Wolves reduced elk populations, which had been overgrazing riverbank vegetation. As willows and aspens recovered, songbird populations increased, beavers returned to build dams, and the resulting ponds created habitats for fish and amphibians. Even the physical course of rivers changed as stabilized banks reduced erosion.",
+    "question": "The passage primarily uses the Yellowstone wolf reintroduction to illustrate which concept?",
+    "choices": {
+      "A": "The dangers of unchecked predator populations",
+      "B": "The economic benefits of wildlife tourism in national parks",
+      "C": "Why elk populations need to be managed through hunting",
+      "D": "How a single species reintroduction can trigger widespread ecosystem changes"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The correct answer is <strong>D) How a single species reintroduction can trigger widespread ecosystem changes</strong>. The passage traces a remarkable <strong>chain reaction</strong> starting from wolf reintroduction: wolves reduced <strong>elk populations</strong>, which allowed <strong>riverbank vegetation</strong> to recover, which brought back <strong>songbirds and beavers</strong>, which created <strong>ponds for fish and amphibians</strong>, which even changed the <strong>physical course of rivers</strong>. This domino effect illustrates how one species can reshape an entire ecosystem.</p><h4>Following the Cascade</h4><p>The passage's structure itself mirrors the cascade: each sentence builds on the previous one, showing cause leading to effect leading to further effect. This reinforces the concept of interconnected ecological systems where a single change at the top of the food chain ripples outward to affect everything below it.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When a passage uses a <strong>specific example</strong> (Yellowstone wolves) to illustrate a <strong>general concept</strong> (rewilding), the main idea is usually the general concept, not just the specific example. The opening sentence defining 'rewilding' tells you the example serves that larger idea.</div><div class=\"wrong-answer-note\"><strong>Why not A?</strong> The passage presents the wolves' impact as overwhelmingly <strong>positive</strong> — vegetation recovered, biodiversity increased, and rivers stabilized. The word 'dangers' contradicts the passage's positive framing entirely.</div><div class=\"wrong-answer-note\"><strong>Why not C?</strong> The passage discusses wolves reducing elk populations through <strong>natural predation</strong>, not through human hunting programs. Wildlife management through hunting is a different topic the passage never addresses.</div><div class=\"wrong-answer-note\"><strong>Why not B?</strong> The passage contains <strong>no mention of economics, tourism, or financial benefits</strong>. It focuses entirely on ecological impacts. This choice introduces a topic completely absent from the text.</div>"
+  },
+  {
+    "id": "verbal-048",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "passage": "The data collected from the satellite sensors, along with the supplementary information gathered by ground-based weather stations across three continents, _______ that average global temperatures have risen by 1.2 degrees Celsius since preindustrial times.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "indicate",
+      "B": "indicates",
+      "C": "are indicating",
+      "D": "have indicated"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The correct answer is <strong>B) indicates</strong>. The subject is <strong>'the data,'</strong> and the phrase <strong>'along with the supplementary information'</strong> is a <em>parenthetical addition</em>, not part of a compound subject. In formal Standard English, <strong>'along with'</strong> does not create a compound subject the way <strong>'and'</strong> does. The verb must agree with <strong>'data'</strong> alone, which is treated as a <strong>singular mass noun</strong> here, requiring <strong>'indicates.'</strong></p><h4>The 'Along With' Rule</h4><p>Phrases introduced by <em>along with, together with, as well as, in addition to,</em> and <em>accompanied by</em> are <strong>parenthetical modifiers</strong>, not conjunctions. They do not make the subject plural. Only <strong>'and'</strong> creates a true compound subject.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Be alert for <strong>interrupter phrases</strong> between the subject and verb. Phrases like 'along with,' 'together with,' and 'as well as' are designed to trick you into choosing a plural verb. Mentally cross out these phrases to find the true subject-verb pair.</div><div class=\"wrong-answer-note\"><strong>Why not A) indicate?</strong> 'Indicate' is the <strong>plural form</strong>. Students often choose this because the sentence mentions both 'data' and 'supplementary information,' making it feel plural. But 'along with' does not create a compound subject.</div><div class=\"wrong-answer-note\"><strong>Why not C) are indicating?</strong> This uses the plural 'are' (same agreement error) and also unnecessarily shifts to <strong>present progressive tense</strong>. The sentence describes a factual finding, not an ongoing action.</div><div class=\"wrong-answer-note\"><strong>Why not D) have indicated?</strong> 'Have' is a <strong>plural auxiliary</strong> (singular would be 'has'), creating the same agreement problem. The present perfect tense also subtly changes the meaning from a direct factual statement.</div>"
+  },
+  {
+    "id": "verbal-049",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Sentence Boundaries",
+    "difficulty": "medium",
+    "passage": "The museum's newest exhibit features interactive displays that allow visitors to experience historical events through virtual _______ guests can walk through a recreated ancient Roman marketplace or witness the signing of the Declaration of Independence.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "reality, for example",
+      "B": "reality for example,",
+      "C": "reality. For example,",
+      "D": "reality for example"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The correct answer is <strong>C) reality. For example,</strong>. A <strong>period</strong> after 'reality' correctly ends the first independent clause, and <strong>'For example,'</strong> with a capital letter and comma properly begins the second sentence. The comma after 'For example' is required because it is an <strong>introductory transitional phrase</strong>.</p><h4>Why Two Separate Sentences?</h4><p>The text contains <strong>two independent clauses</strong>, each with its own subject and verb. Independent clauses must be separated by a period, semicolon, or comma plus coordinating conjunction — never by a comma alone or nothing at all.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When you see two <strong>independent clauses</strong>, check how they are joined. A <strong>period</strong> or <strong>semicolon</strong> between them is always safe. A <strong>comma alone</strong> creates a <em>comma splice</em>, which is always wrong on the SAT. Introductory transitions like 'For example' need a comma after them.</div><div class=\"wrong-answer-note\"><strong>Why not A)?</strong> This creates a <strong>comma splice</strong> — two independent clauses joined only by a comma and a transitional phrase. 'For example' is not a coordinating conjunction, so a comma before it cannot join independent clauses.</div><div class=\"wrong-answer-note\"><strong>Why not B)?</strong> This lacks <strong>any punctuation</strong> between 'reality' and 'for example,' fusing two independent clauses. The comma placement after 'example' is also incorrect.</div><div class=\"wrong-answer-note\"><strong>Why not D)?</strong> This creates a <strong>run-on sentence</strong> with no punctuation at all between two independent clauses.</div>"
+  },
+  {
+    "id": "verbal-050",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Commas and Punctuation",
+    "difficulty": "medium",
+    "passage": "The three primary colors of light \u00e2\u20ac\u201d _______ combine to produce white light. This principle, known as additive color mixing, is the foundation of modern display technologies including televisions, computer monitors, and smartphone screens.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "red, green, and blue \u00e2\u20ac\u201d",
+      "B": "red, green and blue",
+      "C": "red green and blue \u00e2\u20ac\u201d",
+      "D": "red, green, and blue,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The correct answer is <strong>A) red, green, and blue —</strong>. The phrase 'red, green, and blue' is an <strong>appositive</strong> (a renaming phrase) that identifies the three primary colors. Since the passage already has an <strong>opening em dash</strong> before the blank, a <strong>closing em dash</strong> after 'blue' is needed to complete the pair. The <strong>Oxford comma</strong> between 'green' and 'and blue' correctly separates the three items in the list.</p><h4>Paired Em Dashes</h4><p>Em dashes can be used in <strong>pairs</strong> to set off parenthetical or appositive information within a sentence, much like paired commas or parentheses. When you see an opening em dash, you must look for a closing one to complete the interruption. The sentence structure is: 'The three primary colors of light — [appositive] — combine to produce white light.'</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When you see an <strong>em dash</strong> in a sentence, check whether it needs a <strong>matching partner</strong>. If the em dash opens a parenthetical interruption in the middle of a sentence, it must be closed with another em dash. Also remember: the <strong>Oxford comma</strong> (the comma before 'and' in a list of three or more) is standard on the SAT.</div><div class=\"wrong-answer-note\"><strong>Why not B)?</strong> This choice lacks the <strong>closing em dash</strong> needed to match the opening one. Without it, the appositive is not properly set off, and the sentence structure breaks down — the reader cannot tell where the parenthetical insertion ends.</div><div class=\"wrong-answer-note\"><strong>Why not C)?</strong> This omits <strong>commas between the list items</strong> ('red green and blue'), which is incorrect in Standard English. A list of three or more items requires commas to separate each item. Additionally, while it includes the closing em dash, the missing commas make it wrong.</div><div class=\"wrong-answer-note\"><strong>Why not D)?</strong> This uses a <strong>comma</strong> after 'blue' instead of the required closing em dash. Since the appositive was opened with an em dash, it must be closed with one too. You cannot mix punctuation types when setting off parenthetical elements — if you open with an em dash, you close with an em dash.</div>"
+  },
+  {
+    "id": "verbal-051",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "passage": "The senator's proposed legislation aimed to curtail the influence of corporate lobbying on environmental policy. The bill would impose strict limits on campaign contributions from fossil fuel companies and require full disclosure of all meetings between legislators and industry representatives. Opponents dismissed the proposal as quixotic, arguing that decades of entrenched lobbying practices could not be undone by a single piece of legislation.",
+    "question": "As used in the passage, \"quixotic\" most nearly means",
+    "choices": {
+      "A": "corrupt and self-serving",
+      "B": "idealistic but impractical",
+      "C": "carefully calculated",
+      "D": "widely supported"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The correct answer is <strong>B) idealistic but impractical</strong>. The word <strong>'quixotic'</strong> derives from the literary character <em>Don Quixote</em>, who pursued noble but impossible goals. In this passage, opponents call the legislation quixotic because they believe <strong>decades of entrenched lobbying practices cannot be undone by a single bill</strong>. The key context clue is the opponents' reasoning: the goal may be admirable, but it is <strong>unrealistic</strong> in practice.</p><h4>Using Context Clues</h4><p>Even if you do not know the word 'quixotic,' the passage provides strong clues. The opponents are <em>dismissing</em> the proposal, not attacking its motives. Their argument is that entrenched practices 'could not be undone' by one bill, which points to <strong>impracticality</strong> rather than corruption, calculation, or popularity.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For unfamiliar vocabulary, <strong>use the surrounding context</strong> to determine meaning. Look at who is using the word, what attitude they express, and what reasoning they offer. Here, the opponents' explanation (entrenched practices cannot be changed) directly defines what 'quixotic' means in context: noble intentions that are unrealistic to achieve.</div><div class=\"wrong-answer-note\"><strong>Why not A) corrupt and self-serving?</strong> 'Quixotic' has an <strong>idealistic connotation</strong>, not a corrupt one. The opponents are saying the senator's goal is <em>too noble and unrealistic</em>, not that it is motivated by self-interest. 'Corrupt' would imply the opposite of the word's actual meaning.</div><div class=\"wrong-answer-note\"><strong>Why not C) carefully calculated?</strong> 'Carefully calculated' suggests <strong>pragmatism and strategic planning</strong>, which is the <em>opposite</em> of quixotic. A quixotic pursuit is characterized by idealism that ignores practical realities, not by careful calculation.</div><div class=\"wrong-answer-note\"><strong>Why not D) widely supported?</strong> The passage states that <strong>opponents dismissed</strong> the proposal, which directly contradicts the idea of wide support. If the legislation were widely supported, opponents would not be dismissing it as unrealistic.</div>"
+  },
+  {
+    "id": "verbal-052",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "hard",
+    "passage": "A research team studying bilingualism found that children raised in bilingual households performed significantly better on tasks requiring cognitive flexibility \u00e2\u20ac\u201d the ability to switch between different mental frameworks \u00e2\u20ac\u201d than their monolingual peers. The bilingual advantage persisted even after controlling for socioeconomic status, parental education levels, and general intelligence scores. Interestingly, the performance gap was most pronounced in children under age seven, suggesting that early simultaneous exposure to two languages may be particularly effective at developing executive function skills.",
+    "question": "Which finding, if true, would most weaken the researchers' conclusion about the bilingual advantage?",
+    "choices": {
+      "A": "Bilingual adults show similar cognitive flexibility advantages over monolingual adults",
+      "B": "Children in the bilingual group attended schools that specifically emphasized problem-solving and critical thinking skills",
+      "C": "Cognitive flexibility has been linked to academic success in mathematics",
+      "D": "Some monolingual children scored higher than the bilingual average on individual test items"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The correct answer is <strong>B</strong>. If bilingual children attended schools emphasizing <strong>problem-solving and critical thinking</strong>, the observed cognitive flexibility advantage might stem from their <strong>educational environment</strong> rather than bilingualism. This introduces a <strong>confounding variable</strong> that undermines the causal claim.</p><h4>Understanding Confounding Variables</h4><p>The researchers controlled for socioeconomic status, parental education, and intelligence. But if bilingual children also attended schools focused on critical thinking, that <strong>uncontrolled factor</strong> could explain the results instead of bilingualism itself.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> 'Weaken the conclusion' questions ask you to find an <strong>alternative explanation</strong>. Look for answers that introduce a <strong>confounding variable</strong> the researchers did not control for. The best weakener provides a plausible competing explanation for the same results.</div><div class=\"wrong-answer-note\"><strong>Why not A)?</strong> Finding that bilingual adults show similar advantages would <strong>strengthen</strong> the conclusion by showing the effect persists across age groups.</div><div class=\"wrong-answer-note\"><strong>Why not C)?</strong> Linking cognitive flexibility to math success describes a <strong>consequence</strong>, not an alternative cause. It does not weaken the bilingualism claim.</div><div class=\"wrong-answer-note\"><strong>Why not D)?</strong> Some monolingual children scoring above the bilingual average is <strong>normal statistical variation</strong>. Group-level findings are about averages, so individual exceptions do not undermine the overall conclusion.</div>"
+  },
+  {
+    "id": "verbal-053",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "hard",
+    "passage": "A student is writing about the debate over space exploration funding. The student has these notes:\n- NASA's annual budget is approximately $25 billion.\n- The total U.S. federal budget is approximately $6.3 trillion.\n- NASA's budget represents about 0.4% of federal spending.\n- Space exploration has yielded technologies including GPS, water purification systems, and memory foam.\n- Some critics argue that the money would be better spent on poverty reduction and healthcare.\n- A 2024 poll found that 72% of Americans support maintaining or increasing NASA's funding.",
+    "question": "The student wants to counter the argument that NASA's budget is too large. Which choice most effectively uses information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Space exploration has yielded many practical technologies, including GPS, water purification systems, and memory foam, demonstrating the tangible benefits of investment in space research.",
+      "B": "A 2024 poll found that 72% of Americans support maintaining or increasing NASA's funding, suggesting broad public endorsement of current spending levels.",
+      "C": "At just 0.4% of the $6.3 trillion federal budget, NASA's $25 billion allocation represents a relatively modest investment \u00e2\u20ac\u201d one that has yielded transformative technologies like GPS and advanced water purification systems.",
+      "D": "Critics who argue NASA's budget should be redirected to poverty reduction and healthcare overlook the many technologies that space research has contributed to daily life."
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The correct answer is <strong>C</strong>. Choice C most effectively counters the 'too large' argument by using <strong>two rhetorical strategies simultaneously</strong>: it <strong>contextualizes</strong> NASA's $25 billion budget as merely <strong>0.4% of the $6.3 trillion federal budget</strong> (making it seem small) and notes the <strong>return on investment</strong> through transformative technologies like GPS and water purification (making it seem worthwhile). This directly addresses the size criticism with both proportion and value.</p><h4>Why Context Matters in Counterarguments</h4><p>The criticism is that NASA's budget is 'too large.' The most effective counter must address <em>size</em> directly. By placing $25 billion within the context of $6.3 trillion, Choice C reframes the number as relatively modest. This is a classic rhetorical move: <strong>proportional framing</strong> changes how the audience perceives a number.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> In Rhetorical Synthesis questions that ask you to <strong>counter an argument</strong>, the best answer must <em>directly address</em> the specific claim being countered. If the criticism is about budget <em>size</em>, the response must address size — not just benefits, popularity, or criticism of opponents. Match the counterargument to the original argument.</div><div class=\"wrong-answer-note\"><strong>Why not A)?</strong> Choice A discusses the <strong>benefits</strong> of space research (GPS, water purification, memory foam) but never addresses the <em>size</em> of the budget. It argues the money is well spent, but does not counter the claim that the amount itself is too large.</div><div class=\"wrong-answer-note\"><strong>Why not B)?</strong> Choice B cites a <strong>public opinion poll</strong> showing 72% support. While this shows popularity, it does not explain <em>why</em> the budget is not too large. An appeal to popularity does not address the factual claim about budget size.</div><div class=\"wrong-answer-note\"><strong>Why not D)?</strong> Choice D <strong>attacks the critics</strong> by saying they 'overlook' technology benefits. This is a defensive response but lacks the <strong>proportional context</strong> (0.4% of federal spending) that directly counters the 'too large' claim.</div>"
+  },
+  {
+    "id": "verbal-054",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Verb Forms",
+    "difficulty": "hard",
+    "passage": "If the archaeological team _______ the site more carefully before beginning excavation, they might have avoided destroying the delicate pottery fragments that lay just beneath the surface layer of soil.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "surveyed",
+      "B": "surveys",
+      "C": "would survey",
+      "D": "had surveyed"
+    },
+    "correctAnswer": "D",
+    "explanation": "<p>The correct answer is <strong>D) had surveyed</strong>. This sentence is a <strong>past counterfactual conditional</strong> (also called the <strong>third conditional</strong>). The correct structure is: <strong>'If + past perfect, ... might/would have + past participle.'</strong> The result clause already uses 'might have avoided,' which confirms this is a third conditional. Therefore, the if-clause requires the <strong>past perfect</strong> form: <strong>'had surveyed.'</strong></p><h4>The Three Conditionals</h4><p>English has three main conditional patterns: (1) <strong>First conditional</strong> (real future): 'If it rains, we will cancel.' (2) <strong>Second conditional</strong> (present unreal): 'If it rained, we would cancel.' (3) <strong>Third conditional</strong> (past unreal): 'If it had rained, we would have cancelled.' This question tests the third — a hypothetical about something that <em>did not happen</em> in the past.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> When you see <strong>'might have,' 'would have,' or 'could have'</strong> in the result clause, the if-clause must use the <strong>past perfect</strong> (had + past participle). This is the third conditional pattern. The SAT tests this by offering tempting simpler tenses in the answer choices. Always check the result clause first to determine which conditional is being used.</div><div class=\"wrong-answer-note\"><strong>Why not A) surveyed?</strong> 'Surveyed' (simple past) would be correct in a <strong>second conditional</strong> ('If the team surveyed... they might avoid...'), but the result clause uses 'might have avoided' (past), not 'might avoid' (present). The past perfect is required to match.</div><div class=\"wrong-answer-note\"><strong>Why not C) would survey?</strong> Using 'would' in the if-clause <strong>violates standard conditional grammar</strong>. In formal English, 'would' belongs in the <em>result</em> clause, not the <em>if</em> clause. 'If they would survey...' is considered grammatically incorrect.</div><div class=\"wrong-answer-note\"><strong>Why not B) surveys?</strong> 'Surveys' is <strong>present tense</strong>, which is completely incompatible with a past counterfactual situation. The events have already occurred — the team already failed to survey and already destroyed the pottery. Present tense cannot describe a hypothetical past event.</div>"
+  },
+  {
+    "id": "verbal-055",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "passage": "The octopus possesses three hearts, nine brains, and blue blood \u00e2\u20ac\u201d features so alien that biologist Peter Godfrey-Smith has called them \"the closest we will come to meeting an intelligent alien.\" Two of the hearts pump blood to the gills, while the third sends it to the rest of the body. The central brain controls the nervous system, but each of the eight arms contains its own mini-brain capable of independent action. This decentralized intelligence means an arm can explore a crevice, open a shellfish, or manipulate an object without direction from the central brain. The blue color of their blood results from copper-based hemocyanin, which is more efficient at transporting oxygen in cold, low-oxygen deep-sea environments than the iron-based hemoglobin found in mammals.",
+    "question": "Which choice best describes the overall structure of the passage?",
+    "choices": {
+      "A": "An attention-grabbing comparison is followed by detailed explanations of three distinctive biological features",
+      "B": "A scientific theory is proposed and then tested against experimental evidence",
+      "C": "A chronological account traces the evolutionary development of octopus biology",
+      "D": "A series of problems facing marine biologists is presented alongside proposed solutions"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The correct answer is <strong>A) An attention-grabbing comparison is followed by detailed explanations of three distinctive biological features</strong>. The passage opens with Godfrey-Smith's striking <strong>'intelligent alien' comparison</strong>, which hooks the reader. It then systematically explains the three features introduced in the opening sentence: <strong>three hearts</strong> (two for gills, one for the body), <strong>nine brains</strong> (one central, eight in the arms), and <strong>blue blood</strong> (copper-based hemocyanin). Each feature receives its own detailed, scientific explanation.</p><h4>Mapping the Structure</h4><p>The passage follows a clear <strong>hook-then-explain</strong> pattern: the first sentence introduces all three features with a vivid comparison, and the remaining sentences devote roughly equal space to explaining each one. This organization by <em>feature</em> (not by time, argument, or problem) is the defining structural characteristic.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For 'structure' questions, <strong>map the passage in sections</strong>. Ask: what does the opening do? What does the middle do? What does the end do? Then match your map to the answer choices. Here, the map is: hook/comparison followed by feature 1, feature 2, feature 3 — which matches Choice A precisely.</div><div class=\"wrong-answer-note\"><strong>Why not B)?</strong> No <strong>scientific theory</strong> is proposed or tested in the passage. The text describes octopus biology factually; it does not present a hypothesis and then evaluate evidence for or against it.</div><div class=\"wrong-answer-note\"><strong>Why not C)?</strong> The passage is organized by <strong>biological feature</strong>, not chronologically. There are no dates, time markers, or evolutionary timelines. The order (hearts, brains, blood) is topical, not temporal.</div><div class=\"wrong-answer-note\"><strong>Why not D)?</strong> The passage presents no <strong>problems or solutions</strong>. It describes fascinating biological features — it does not identify challenges facing marine biologists or propose ways to address them.</div>"
+  },
+  {
+    "id": "verbal-056",
+    "section": "verbal",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "passage": "The Library of Alexandria, founded in the 3rd century BCE, is often portrayed as having been destroyed in a single catastrophic fire. However, historians now believe the library's decline was gradual, resulting from centuries of reduced funding, political neglect, and multiple smaller incidents of damage. By the time of the alleged great fire, the library's collection had likely already been significantly diminished. The romanticized narrative of sudden destruction may persist because it offers a more dramatic and emotionally compelling story than the mundane reality of slow institutional decay.",
+    "question": "The passage most strongly suggests that popular historical narratives",
+    "choices": {
+      "A": "are always fabricated by historians with political motives",
+      "B": "may favor dramatic stories over more accurate but less exciting accounts",
+      "C": "are more reliable than academic historical research",
+      "D": "have no basis in any factual events"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The correct answer is <strong>B) may favor dramatic stories over more accurate but less exciting accounts</strong>. The passage directly supports this inference with its final sentence: the romanticized fire narrative <strong>'may persist because it offers a more dramatic and emotionally compelling story than the mundane reality'</strong> of gradual institutional decline. This explicitly connects the <em>persistence</em> of popular narratives to their <em>dramatic appeal</em> rather than their accuracy.</p><h4>Drawing Supported Inferences</h4><p>Notice the passage's careful language: it uses <strong>'may persist because'</strong> — offering an explanation for why the inaccurate version endures. The contrast between 'dramatic and emotionally compelling' and 'mundane reality' directly illustrates how popular narratives can prioritize storytelling value over historical precision.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For inference questions, choose the answer that is <strong>directly supported</strong> by the text without overgeneralizing. Watch for extreme language like 'always,' 'never,' 'entirely,' or 'no basis' — these usually signal wrong answers. The correct inference will be moderate and closely tied to what the passage actually states.</div><div class=\"wrong-answer-note\"><strong>Why not A)?</strong> Choice A claims popular narratives are <strong>'always fabricated by historians with political motives.'</strong> This is far too extreme. The passage does not mention political motives at all, and the word 'always' makes an absolute claim that the passage never supports. The popular narrative is described as <em>oversimplified</em>, not deliberately fabricated.</div><div class=\"wrong-answer-note\"><strong>Why not C)?</strong> Choice C claims popular narratives are <strong>'more reliable than academic historical research.'</strong> This directly <strong>contradicts</strong> the passage, which presents the historians' gradual-decline account as more accurate than the popular single-fire narrative.</div><div class=\"wrong-answer-note\"><strong>Why not D)?</strong> Choice D claims popular narratives <strong>'have no basis in any factual events.'</strong> This is too strong. The passage acknowledges that fires and damage <em>did</em> occur — the popular version is an oversimplification, not a complete fabrication. Some factual basis exists; it is just distorted for dramatic effect.</div>"
+  },
+  {
+    "id": "verbal-057",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "hard",
+    "passage": "The discovery of antibiotics in the 20th century transformed medicine, saving millions of lives from bacterial infections that had previously been fatal. _______ the widespread and often unnecessary use of antibiotics has accelerated the evolution of drug-resistant bacteria, creating so-called \"superbugs\" that current medications cannot effectively treat. The World Health Organization has identified antimicrobial resistance as one of the top ten global public health threats.",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Paradoxically,",
+      "B": "Similarly,",
+      "C": "In other words,",
+      "D": "To this end,"
+    },
+    "correctAnswer": "A",
+    "explanation": "<p>The correct answer is <strong>A) Paradoxically,</strong>. The transition <strong>'Paradoxically'</strong> captures the <strong>ironic contradiction</strong> at the heart of this passage: the very tool that <em>saved</em> millions of lives (antibiotics) has, through overuse, <em>created</em> a new deadly threat (drug-resistant superbugs). This is a genuine paradox — the <strong>solution has become part of the problem</strong>.</p><h4>When to Use 'Paradoxically'</h4><p>A paradox occurs when something produces a result that seems to <strong>contradict its own purpose</strong>. Antibiotics were designed to kill bacteria, yet their overuse has made bacteria stronger and harder to kill. This self-defeating outcome is precisely what 'paradoxically' signals. It is stronger than 'however' because it emphasizes the <em>irony</em> of the contradiction, not just the contrast.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Use <strong>'Paradoxically'</strong> when the second sentence describes an outcome that <strong>contradicts the purpose or expectation</strong> of the first sentence. It signals more than simple contrast — it signals that something produced the <em>opposite</em> of its intended effect. If the relationship is merely different (not ironic), use 'However' instead.</div><div class=\"wrong-answer-note\"><strong>Why not B) Similarly?</strong> 'Similarly' signals that the second idea <strong>parallels</strong> the first. But the second sentence describes a <em>threat</em> created by antibiotics, which is the opposite of the first sentence's description of lives <em>saved</em> by antibiotics. The relationship is contradictory, not similar.</div><div class=\"wrong-answer-note\"><strong>Why not C) In other words?</strong> 'In other words' signals a <strong>restatement</strong> of the same idea in different language. But the second sentence introduces an entirely <em>new</em> and contrasting idea (superbugs), not a rephrasing of the first sentence's point about saving lives.</div><div class=\"wrong-answer-note\"><strong>Why not D) To this end?</strong> 'To this end' implies <strong>purposeful action toward an established goal</strong>. But the creation of superbugs was an <em>unintended consequence</em> of antibiotic overuse, not a deliberate pursuit. This transition would illogically suggest that creating drug-resistant bacteria was the goal of using antibiotics.</div>"
+  },
+  {
+    "id": "verbal-058",
+    "section": "verbal",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "passage": "The town council meeting grew contentious when residents learned that the proposed highway expansion would require demolishing several historic buildings. Some attendees expressed their frustration calmly, while others were visibly agitated, interrupting speakers and demanding immediate answers from council members.",
+    "question": "As used in the passage, \"contentious\" most nearly means",
+    "choices": {
+      "A": "boring and uneventful",
+      "B": "well organized",
+      "C": "involving heated disagreement",
+      "D": "lasting a long time"
+    },
+    "correctAnswer": "C",
+    "explanation": "<p>The correct answer is <strong>C) involving heated disagreement</strong>. The word <strong>'contentious'</strong> means characterized by <strong>heated argument, controversy, or dispute</strong>. The passage provides abundant context clues: residents expressed <strong>frustration</strong>, others were <strong>visibly agitated</strong>, people were <strong>interrupting speakers</strong>, and attendees were <strong>demanding immediate answers</strong>. All of these details describe a meeting filled with heated disagreement.</p><h4>Reading Context Clues</h4><p>Even if you are unfamiliar with 'contentious,' the passage gives you everything you need. The sentence structure is: 'The meeting grew contentious <em>when</em> residents learned about the demolition plan.' The word 'grew' tells you the meeting <em>became</em> something — and the details that follow (frustration, agitation, interruptions) tell you exactly what it became: a scene of heated conflict.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> For Words in Context, always read the <strong>full sentence and the sentences around it</strong> for clues. When a passage describes the <em>effects</em> of a word (what happened after the meeting 'grew contentious'), those effects define the word for you. Match the tone and intensity of the surrounding details to the answer choice.</div><div class=\"wrong-answer-note\"><strong>Why not A) boring and uneventful?</strong> This is the <strong>opposite</strong> of what the passage describes. A meeting with frustrated residents, visible agitation, interruptions, and demands is anything but boring. The SAT sometimes includes an antonym as a trap choice.</div><div class=\"wrong-answer-note\"><strong>Why not B) well organized?</strong> The passage describes a chaotic scene with <strong>interruptions and demands</strong>, which directly contradicts the idea of a well-organized meeting. Good organization implies order; the passage depicts disorder.</div><div class=\"wrong-answer-note\"><strong>Why not D) lasting a long time?</strong> 'Contentious' describes the <strong>nature</strong> of the meeting (heated disagreement), not its <strong>duration</strong>. The passage says nothing about how long the meeting lasted. Duration and tone are completely different qualities.</div>"
+  },
+  {
+    "id": "verbal-059",
+    "section": "verbal",
+    "domain": "Standard English Conventions",
+    "skill": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "passage": "Every one of the students participating in the science fair _______ required to submit a written abstract summarizing their research methodology and findings at least two weeks before the event.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "have been"
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The correct answer is <strong>B) is</strong>. The subject of this sentence is <strong>'every one,'</strong> which is grammatically <strong>singular</strong> despite referring to multiple students. The long prepositional phrase <strong>'of the students participating in the science fair'</strong> is a modifier — it does not change the number of the subject. Since the sentence describes an <strong>ongoing requirement</strong> (not a past event), the present tense singular <strong>'is'</strong> is correct.</p><h4>Why 'Every One' Is Singular</h4><p>The phrase 'every one' emphasizes <strong>each individual separately</strong>, not the group as a whole. Think of it as 'every single one.' This individual emphasis makes it grammatically singular, just like 'each,' 'everyone,' and 'every.' On the SAT, any subject beginning with 'every' takes a singular verb.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> Subjects beginning with <strong>'every'</strong> (every one, everyone, every student, every single) are <strong>always singular</strong> on the SAT. Long prepositional phrases between the subject and verb are designed to make you lose track of the true subject. Mentally remove the phrase to find the core: 'Every one ... ___ required to submit.' The singular 'is' becomes obvious.</div><div class=\"wrong-answer-note\"><strong>Why not A) are?</strong> 'Are' is a <strong>plural verb</strong> that does not agree with the singular subject 'every one.' Students are tempted by this because 'students' (plural) appears nearby, but the true subject is 'every one,' not 'students.'</div><div class=\"wrong-answer-note\"><strong>Why not C) were?</strong> 'Were' shifts to the <strong>past tense</strong>, which is unjustified by the context. The sentence describes a current, ongoing requirement ('at least two weeks before the event'), not a past event. There is no reason to use past tense here.</div><div class=\"wrong-answer-note\"><strong>Why not D) have been?</strong> 'Have' is a <strong>plural auxiliary</strong> (the singular form would be 'has'). This creates the same agreement error as Choice A. Additionally, the present perfect tense 'have been' suggests an action with ongoing relevance from the past, which is unnecessary for stating a current rule.</div>"
+  },
+  {
+    "id": "verbal-060",
+    "section": "verbal",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "medium",
+    "passage": "A student is writing a report about renewable energy. The student wants to introduce the topic by establishing why renewable energy matters.",
+    "question": "Which choice most effectively accomplishes the student's goal?",
+    "choices": {
+      "A": "There are several types of renewable energy, including solar, wind, hydroelectric, and geothermal power.",
+      "B": "Renewable energy sources produce little to no greenhouse gas emissions, making them essential in the global effort to combat climate change and reduce dependence on finite fossil fuels.",
+      "C": "The first solar cell was invented in 1954 at Bell Laboratories in New Jersey.",
+      "D": "Many countries have invested in renewable energy infrastructure in recent years."
+    },
+    "correctAnswer": "B",
+    "explanation": "<p>The correct answer is <strong>B</strong>. Choice B directly addresses the student's goal — <strong>establishing why renewable energy matters</strong> — by connecting it to two urgent global issues: <strong>climate change</strong> and <strong>dependence on finite fossil fuels</strong>. The phrase 'making them essential' explicitly establishes importance, and the reference to 'the global effort to combat climate change' gives the reader a compelling reason to care about the topic.</p><h4>Matching the Rhetorical Goal</h4><p>The student's goal is specifically to introduce the topic by explaining <strong>why it matters</strong>. This requires an answer that provides a <em>reason</em> or <em>justification</em> for the importance of renewable energy. Listing types, citing history, or noting investment trends may be relevant to the topic but do not answer the 'why does this matter?' question.</p><div class=\"key-insight\"><strong>SAT Tip:</strong> In Rhetorical Synthesis questions, pay close attention to the <strong>specific verb</strong> in the student's goal. 'Establish why renewable energy matters' requires a <em>reason</em> (why), not a list (what), a date (when), or a trend (who). The correct answer must contain language that directly explains significance or importance — look for words like 'essential,' 'critical,' 'because,' or 'important.'</div><div class=\"wrong-answer-note\"><strong>Why not A)?</strong> Choice A <strong>lists types</strong> of renewable energy (solar, wind, hydroelectric, geothermal) but never explains <em>why</em> they matter. It answers the question 'what kinds exist?' rather than 'why do they matter?' This is informative but does not establish importance.</div><div class=\"wrong-answer-note\"><strong>Why not C)?</strong> Choice C provides a <strong>historical fact</strong> about the first solar cell (1954, Bell Laboratories). While interesting, this is a piece of trivia that does not establish why renewable energy is important today. Historical origin does not equal current significance.</div><div class=\"wrong-answer-note\"><strong>Why not D)?</strong> Choice D notes that <strong>many countries have invested</strong> in renewable energy, but this describes a trend without explaining the underlying reason. It tells us that countries are investing, but not <em>why</em> — which is exactly what the student needs to establish.</div>"
+  }
+]
